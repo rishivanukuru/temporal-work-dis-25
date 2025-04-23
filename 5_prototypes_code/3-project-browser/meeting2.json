@@ -1,0 +1,22 @@
+{
+    "title": "Functional Design Meeting",
+    "attendees": "Laura, Andrew, Craig, David",
+    "goals": [
+      "Discuss functional design requirements.",
+      "Decide target market audience."
+    ],
+    "progress": [
+      "New requirements include excluding teletext and focusing on TV control.",
+      "Discussion on grouping control functions [Andrew]"
+    ],
+    "plans": [
+      "Focus design on simplicity and essential functions [Craig]",
+      "Adopt bucket categorization for control functions [David]"
+    ],
+    "highlights": [
+      {"title": "Technical Functions Design presentation", "src": "0"},
+      {"title": "Method for design research", "src": "1"},
+      {"title": "Findings on remote complexity", "src": "2"},
+      {"title": "Comparing remote designs", "src": "3"}
+    ]
+  }

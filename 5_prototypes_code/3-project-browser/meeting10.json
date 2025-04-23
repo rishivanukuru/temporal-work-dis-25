@@ -1,0 +1,22 @@
+{
+    "title" : "Final Design Review",
+    "attendees" : "Laura, Andrew, Craig, David",
+    "goals" : [
+        "Finalize remote control design.",
+        "Ensure design is within budget."
+    ],
+    "progress" : [
+        "Decision to use LCD display instead of opening mechanism [Andrew]",
+        "Incorporated slogan on the remote [Laura]"
+    ],
+    "plans" : [
+        "Replace advanced chip with regular chip [David]",
+        "Remove special colors from buttons to cut costs [Laura]"
+    ],
+    "highlights" : [
+        {"title" : "Rating criteria for design evaluation", "src" : "2"},
+        {"title" : "Cost evaluation using Excel sheet", "src" : "4"},
+        {"title" : "Prototype design discussion points", "src" : "0"},
+        {"title" : "Final design considerations", "src" : "1"}
+    ]
+}

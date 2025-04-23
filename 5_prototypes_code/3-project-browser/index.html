@@ -1,0 +1,125 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>Resizable Vertical Scrollbar</title>
+    <link rel="stylesheet" href="style.css">
+</head>
+<body>
+<!-- 
+<div class="chat-container">
+<div class = "chat-content"></div>
+
+</div> -->
+
+<!-- <div class="parent">
+
+    <div class = "div1">
+        Hello
+
+    </div>
+
+    <div class = "div2">
+
+        
+
+        
+
+    </div>
+
+
+</div> -->
+
+<div class="timeline-container">
+
+    <div class="timeline-header">
+    Project Browser
+    </div>
+    <div class="timeline-content">
+        <!-- Individual divs representing sections of the timeline -->
+        <!-- <div class="timeline-section" data-index="1">Section 11</div>
+        <div class="timeline-section" data-index="2">Section 12</div>
+        <div class="timeline-section" data-index="3">Section 13</div> -->
+        <div class="timeline-section" data-index="4">
+
+            <div class = "timeline-holder">
+                <p style="padding: 0;">Looking back</p>
+                <h1 id="title">Meeting title</h1>
+                <p id="details">Details</p>
+
+                <div class = "meeting-main">
+
+                    <div class = "meeting-content-base" id = "before-goals">
+                        <h2>Goals</h2>
+                        <div class = "meeting-content-inner" id = "1-1">
+                            
+                            <div id="before-goals-list" contenteditable="true">
+
+                            </div>   
+    
+                            
+                        </div>
+                        
+                    </div>
+                    
+                    <div class = "meeting-content-base" id = "before-progress">
+                        <h2>Progress</h2>
+                        <div class = "meeting-content-inner" id = "1-2">
+                            
+                            <ul id="before-progress-list" contenteditable="true"></ul>   
+                            
+                        </div>
+                                     
+                    </div>
+
+                    <div class = "meeting-content-base" id = "before-plans">
+                        <h2>Next steps</h2>
+                        <div class = "meeting-content-inner" id = "1-3">
+                           
+                            <ul id="before-plans-list" contenteditable="true"></ul>   
+                            
+                        </div>
+                                   
+                    </div>
+    
+                    <div class = "meeting-content-browser" id = "before-browser">
+                        <h2>Highlights</h2>
+                            <p></p>
+                        <div class = "meeting-content-inner" id = "image-highlights">
+                            
+                        </div>
+                     
+                    </div>
+    
+                    
+    
+                </div>
+
+
+            </div>
+           
+        
+        
+        </div>
+        <!-- <div class="timeline-section" data-index="5">Section 21</div>
+        <div class="timeline-section" data-index="6">Section 22</div>
+        <div class="timeline-section" data-index="7">Section 23</div>
+        <div class="timeline-section" data-index="8">Section 31</div>
+        <div class="timeline-section" data-index="9">Section 32</div>
+        <div class="timeline-section" data-index="10">Section 41</div> -->
+    </div>
+
+    <div class="scrollbar">
+        <div class="scrollbar-handle">
+            <div class="resize-handle top"> Drag to resize </div>
+            <div class="time-window">Browsing in increments <br> of 1 meeting.</div>
+            <div class="resize-handle bottom"></div>
+        </div>
+    </div>
+    
+</div>
+
+<script src="script.js"></script>
+</body>
+</html>

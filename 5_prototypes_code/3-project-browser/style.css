@@ -1,0 +1,255 @@
+body {
+    font-family: "Segoe UI", Tahoma, Geneva, Verdana, sans-serif;
+    background-color: rgb(34, 34, 34);
+    margin: 0;
+    padding: 0;
+    color: #333333;
+    zoom: 1; /* This zooms the content to 75% */
+    overflow: hidden;
+}
+
+button {
+    font-family: "Segoe UI", Tahoma, Geneva, Verdana, sans-serif;
+    background-color: #7e81da;
+    margin: 0px;
+    padding: 10px;
+    text-decoration: none;
+    border-radius: 4px;
+    border-width: 0cap;
+    border-style: solid;
+    outline: 0;
+    box-shadow: none;
+}
+
+.active button {
+
+    background-color: #7e81da;
+    color: white;
+    width: 90px;
+}
+
+
+.inactive button {
+    background-color: #838383;
+    color: black;
+    width: 90px;
+}
+
+
+
+
+a {
+    color: #6264a7;
+    text-decoration: none;
+}
+
+a:hover {
+    text-decoration: underline;
+}
+
+
+.parent {
+    display: grid;
+    grid-template-columns: 2fr 1fr;
+    grid-template-rows: 1fr;
+    grid-column-gap: 0px;
+    grid-row-gap: 0px;
+    width: 100%;
+    height: 100%;
+    }
+    
+    .div1 { grid-area: 1 / 1 / 2 / 2;}
+    .div2 { grid-area: 1 / 2 / 2 / 3;}
+
+
+
+.timeline-container {
+    position: relative; 
+    width: 90%; /* Adjust the container width for a vertical layout */
+    height: 90vh;
+    overflow: hidden;
+    background-color: rgb(201, 201, 201);
+    color: black;
+    border-radius: 8px;
+    border-style: none;
+    transition: 0.5s ease-in-out;
+    margin: 5vh auto auto auto;
+}
+
+.timeline-header {
+    width: 100%;
+    height: 10vh;
+    padding-top: 30px;
+    text-align: center;
+    font-weight: 600;
+    font-size: x-large;
+    background-color: #3f4168;
+    color: white;
+}
+
+.timeline-content {
+    position: absolute;
+    background-color: rgb(49, 49, 49);
+    width: 90%;
+    height: 80vh; /* Example large height for timeline */
+    bottom: 0;
+    /* background: linear-gradient(to bottom, #ff8a00, #e52e71); */
+}
+
+.timeline-section {
+    height: 90%; /* Adjust to divide evenly based on content */
+    /* align-items: center;
+    justify-content: center; */
+    background: #ffffff;
+    border-radius: 8px;
+    color: black;
+    margin: 5vh;
+}
+
+.timeline-holder{
+    padding: 20px;
+}
+
+.timeline-holder h1 {
+    font-size: 32px;
+    font-weight: 500;
+    margin: 0;
+    padding-top: 0;
+}
+
+.timeline-holder h2 {
+    font-size: 24px;
+    font-weight: 500;
+    margin: 0;
+    padding-top: 0;
+}
+
+.timeline-holder ul {
+    display: block;
+    list-style-type: disc;
+    margin-top: 0.2em;
+    margin-bottom: 0.2em;
+    margin-left: 0;
+    margin-right: 0;
+    padding-left: 24px;
+}
+
+.timeline-holder li {
+    font-size: 20px;
+    font-weight: 400;
+    margin: 0;
+    padding-top: 0;
+}
+
+
+.timeline-holder p {
+    padding: 8px 0px 8px 0px;
+    margin: 0;
+    font-size: 20px;
+}
+
+.meeting-main {
+    display: flex;
+    flex-direction: row;
+    flex-wrap: wrap;
+    justify-content: flex-start;
+    align-items: flex-start;
+    align-content: flex-start;
+    gap: 10px;
+    height: auto;
+    transition: 0.5s ease-in-out;
+}
+
+.meeting-bottom {
+    padding: 10px 0px 10px 0px;
+}
+
+.meeting-content-base {
+    /* flex: 1 20%; */
+    width: 380px;
+    opacity: 1;
+    transition: 0.5s ease-in-out;
+}
+
+.meeting-content-inner {
+    border-radius: 4px;    
+    padding: 10px;
+    transition: 0.5s ease-in-out;
+
+}
+
+.meeting-content-browser {
+    /* flex: 3 100%; */
+    width: 1160px;
+    transition: 0.5s ease-in-out;
+    
+
+}
+
+.meeting-content-browser img{
+    padding: 5px;
+    width: 270px;
+}
+
+label {
+    font-size: 20px;
+    font-weight: 400;
+}
+
+input[type=checkbox] {
+    transform: scale(1.5);
+    margin-right: 10px;
+}
+
+
+.scrollbar {
+    position: absolute;    
+    bottom: 0;
+    right: 0;
+    height: 80vh;
+    width: 10%;
+    background: #d3d3d3;
+    border-left: 1px solid #bbb;
+}
+
+.scrollbar-handle {
+    position: absolute;
+    width: 100%;
+    height: 20%; /* Default handle size */
+    background: #6264a7;
+    cursor: pointer;
+}
+
+.resize-handle {
+    position: absolute;
+    width: 100%;
+    height: 30px;
+    background-color: #ffffff;
+    cursor: ns-resize;
+}
+
+.time-window {
+    position: absolute;
+    width: 100%;
+    height: 80px;
+    margin-top: 60px;
+    text-align: center;
+    color: white;   
+    font-weight: 600;
+}
+
+.resize-handle.top {
+    top: 0;
+    text-align: center;
+    font-style: italic;
+    border: dashed 1px;
+    padding-top: 10px;
+
+}
+
+.resize-handle.bottom {
+    bottom: 0;
+    background: #6264a7;
+    cursor: pointer;
+
+}

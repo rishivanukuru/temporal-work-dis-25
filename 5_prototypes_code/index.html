@@ -1,0 +1,66 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>Temporal Work in Meetings - Generative AI Interface Concepts</title>
+    <link rel="stylesheet" href="styles.css">
+</head>
+<body>
+
+<div class="left-column">
+    <h1>Temporal Work in Meetings</h1>
+    <h2>Generative AI Interface Concepts </h2>
+    <p>Select an option to display the corresponding concept:</p>
+    <form>
+        <div>
+            <input type="radio" id="option1" name="pageOption" value="page1" onclick="updateContent('1-instant-recap\\index.html', 'instruction1')" checked>
+            <label for="option1">Instant Recap</label>
+        </div>
+        <div>
+            <input type="radio" id="option2" name="pageOption" value="page2" onclick="updateContent('2-adaptive-handoff\\index.html', 'instruction2')">
+            <label for="option2">Adaptive Handoff</label>
+        </div>
+        <div>
+            <input type="radio" id="option3" name="pageOption" value="page3" onclick="updateContent('3-project-browser\\index.html', 'instruction3')">
+            <label for="option3">Project Browser</label>
+        </div>
+    </form>
+    <div id="instructions">
+        <div id="instruction1" class="instruction" style="display: block;">
+            <p>Use the slider to change the level of detail in the Instant recap.</p>
+            <p><i>Note: The slider is intended to be a tool to explore the interface, and not an actual part of the final concept.</i></p>
+            <p>The text fields on the card are editable - click on them to begin typing.</p>
+        </div>
+        <div id="instruction2" class="instruction" style="display: none;">
+            <p>Use the slider to move the focus from the previous meeting to the next one.</p>
+            <p><i>Note: The slider is intended to be a tool to explore the interface, and not an actual part of the final concept.</i></p>
+            <p>The text fields on the card are editable - click on them to begin typing.</p>
+        </div>
+        <div id="instruction3" class="instruction" style="display: none;">
+            <p>Move the purple-colored scroll bar handle on the right to browse meeting recaps.</p>
+            <p>Changing the width of the handle (by dragging the specified section at its top) changes the duration of temporal browsing.</p>
+            <p>The text fields on the card are editable - click on them to begin typing.</p>
+        </div>
+    </div>
+</div>
+
+<div class="right-column">
+    <iframe id="contentFrame" src=""></iframe>
+</div>
+
+<script>
+    function updateContent(pageUrl, instructionId) {
+        document.getElementById('contentFrame').src = pageUrl;
+        const instructions = document.querySelectorAll('.instruction');
+        instructions.forEach(instruction => instruction.style.display = 'none');
+        document.getElementById(instructionId).style.display = 'block';
+    }
+
+    document.addEventListener('DOMContentLoaded', () => {
+        updateContent('1-instant-recap\\index.html', 'instruction1');
+    });   
+</script>
+</body>
+
+</html>

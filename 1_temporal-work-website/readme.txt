@@ -1,0 +1,1 @@
+To run this website, you will need to launch it using a local development server. Using the Live Server extension on VS Code is one option of achieving this.

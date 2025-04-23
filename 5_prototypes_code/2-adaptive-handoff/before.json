@@ -1,0 +1,21 @@
+{
+    "title": "Kick-off Meeting",
+    "attendees": "Laura, Andrew, David, Craig",
+    "goals": [
+        "Introduce team members and roles",
+        "Discuss initial design ideas for the remote control"
+    ],
+    "progress": [
+        "Selected attributes for the new remote control [Laura]",
+        "Discussed potential international market implications [Andrew]"
+    ],
+    "plans": [
+        "Explore design options for multifunctional remote [David]",
+        "Consider international market impact on design [Andrew]"
+    ],
+    "highlights": [
+        {"title": "Project Method Overview", "src": "0"},
+        {"title": "Discussion on Remote Control Ideas", "src": "1"},
+        {"title": "Individual Action Items", "src": "2"}
+    ]
+}

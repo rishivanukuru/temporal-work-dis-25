@@ -1,0 +1,34 @@
+{
+    "title": "Remote Control Design Meeting",
+    "attendees": "Laura, Andrew, David, Craig",
+    "goals": [
+        "Introduce team and roles.",
+        "Discuss project requirements and target audience."
+    ],
+    "progress": [
+        "Decision to focus solely on TV functionality [Laura].",
+        "Consideration of voice recognition for accessibility [Andrew]."
+    ],
+    "plans": [
+        "Work on the functional design phase post-lunch [Craig].",
+        "Email further design instructions to team [Laura]."
+    ],
+    "highlights": [
+        {
+            "title": "Introduction of Technical Functions Design",
+            "src": "0"
+        },
+        {
+            "title": "Discussion on Methodology for Design",
+            "src": "1"
+        },
+        {
+            "title": "Comparison of Remote Control Designs",
+            "src": "7"
+        },
+        {
+            "title": "Importance of Simplicity in Design",
+            "src": "5"
+        }
+    ]
+}

@@ -1,0 +1,76 @@
+Time,Action,Detail,Horizon,Timescale
+106,Recollecting,Team member using a certain tool,Recent past,4
+129,Recollecting,A talk before this meeting,Today,1
+243,Recollecting,Asking a teammate to do a demo,Last week,2
+266,Planning,Team workshop,Next week,2
+278,Planning,The tasks in the workshop,Next week,2
+303,Intention,Goal of the workshop,Next week,2
+346,Recollecting,A task for people to do in the previous workshop,Last week,2
+357,Planning,Item for discussion in the next workshop,Next week,2
+412,Intention,Defining broad goals for the team,Near future,4
+442,Planning,Events through the year,Over the year,5
+448,Planning,Preparation for the workshop,This week,2
+506,Prediction,On how the team will grow,Near future,4
+532,Intention,To come to a common agreement,Near future,4
+594,Planning,Agenda item for the next workshop meeting,Next week,2
+611,Planning,Tools for coordinating work,Next few months,4
+654,Planning,Looking ahead to the hackathon,Next few months,4
+670,Planning,Discussing team availability,Next few months,4
+683,Recollecting,Date of the hackathon,Next few months,4
+712,Planning,Brainstorming meeting as a mini hackathon,Later this week,2
+729,Intention,Goal of the workshop,Next week,2
+773,Prediction,Outcome of this work feeding into hackathon,Next few months,4
+810,Intention,Member stating their role for an upcoming event,Next few months,4
+825,Reflecting,On prior experiences with the hackathon,Last year,5
+868,Intention,Building bridges outside the group,Next few months,4
+920,Planning,To arrange schedules around event,Next few months,4
+958,Planning,To arrange schedules around event,Next few months,4
+1000,Planning,Deciding the plan for the workshop,This week,2
+1025,Recollecting,Meeting with another team,This morning,1
+1036,Recollecting,Responses from other team,This morning,1
+1064,Planning,Sharing source code,Next few days,2
+1076,Planning,Joining the workshop,Next few days,2
+1096,Planning,Engineering collaboration details,Next few weeks,3
+1115,Recollecting,Details of other team's work,Recent past,4
+1198,Planning,More meetings after people return from vacation,Next few weeks,3
+1237,Recollecting,A presentation given by a team member,Last week,2
+1244,Planning,Dates for presentations with other team members,Next few weeks,3
+1254,Intention,To set up meetings with other team members,Next few weeks,3
+1276,Planning,Horizon for presentations,Next few weeks,3
+1304,Planning,A visit of a team member,Next month,4
+1323,Intention,Purpose of the visit,Next month,4
+1369,Recollecting,Referencing conversations at the internal conference,Last month,4
+1399,Planning,Thinking of ideas to prepare for the visit,Next few weeks,3
+1414,Reflecting,On conversations with other team leader,Recent past,4
+1421,Recollecting,Team leader's feedback during the conference,Last month,4
+1463,Recollecting,Team member attending a meeting series,Last week,2
+1469,Planning,To attend another one of the meetings,This afternoon,1
+1512,Recollecting,Details from the meeting series,Last few weeks,3
+1538,Intention,Be cautious about new collaborations,Near future,4
+1563,Recollecting,A meeting with external team members ,Earlier today,1
+1588,Reflecting,On the conversation with the other team,Earlier today,1
+1626,Recollecting,Following up on a task discussed in previous meetings,Last week,2
+1646,Recollecting,Other meetings with external members,Last week,2
+1656,Recollecting,Details from the meeting,Last week,2
+1681,Recollecting,Details from the meeting,Last week,2
+1706,Intention,To share more details as they arrive,Near future,4
+1714,Planning,Having conversations with specific team members,Next few weeks,3
+1749,Simulation,An alternative timeline for the demo,Next month,4
+1769,Simulation,Reconciling the timeline with a better possibility,Next month,4
+1836,Planning,More extended discussion during visit,Next month,4
+1860,Recollecting,Task from previous meeting about frameworks,Last week,2
+2220,Reflecting,On previous examples of a similar kind,Recent past,4
+2406,Recollecting,Connections to prior work in the team,Recent past,4
+2490,Recollecting,Outcomes from a study,Recent past,4
+2604,Simulation,Using the tool for different purposes,Near future,4
+2779,Intention,For what the tools should be able to do in the future,Near future,4
+2813,Recollecting,Initial hypothesis about tool,Recent past,4
+2863,Recollecting,How the tools was evaluated,Recent past,4
+2900,Reflecting,On the value of the tool in prior interactions,Recent past,4
+3010,Reflecting,On discussion in this meeting,This meeting,1
+3034,Prediction,Of an outcome with the tool,Near future,4
+3087,Prediction,On how the tool will perform,Near future,4
+3119,Recollecting,A point discussed in this meeting,This meeting,1
+3282,Simulation,When the tool could be used,Near future,4
+3325,Simulation,When the tool could be used,Near future,4
+3325,Simulation,When the tool could be used,Near future,4

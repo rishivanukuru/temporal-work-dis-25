@@ -1,0 +1,34 @@
+{
+    "title": "Remote Design Discussion",
+    "attendees": "Laura, David, Andrew, Craig",
+    "goals": [
+      "Finalize the design of the remote control.",
+      "Evaluate user interface and product specifications."
+    ],
+    "progress": [
+      "Decision to include a basic LCD screen [Andrew]",
+      "Removal of advanced chip to cut costs [David]"
+    ],
+    "plans": [
+      "Redesign the product to fit the budget [Laura]",
+      "Incorporate company logo on the side [Laura]"
+    ],
+    "highlights": [
+      {
+        "title": "Product evaluation method",
+        "src": "1"
+      },
+      {
+        "title": "Design evaluation criteria",
+        "src": "2"
+      },
+      {
+        "title": "Budget evaluation in Excel",
+        "src": "4"
+      },
+      {
+        "title": "Discussion on design refinement",
+        "src": "3"
+      }
+    ]
+  }

@@ -1,0 +1,22 @@
+{
+    "title": "Office Relocation Planning",
+    "attendees": "Jackie, Claire, Laura, Dennis",
+    "goals": [
+        "Plan new office allocations.",
+        "Decide equipment placement in new offices."
+    ],
+    "progress": [
+        "Discussion about office layout and equipment placement.",
+        "Consideration of room sharing strategies."
+    ],
+    "plans": [
+        "Finalize office allocation plan before lunch.",
+        "Prepare presentation for university administrators by November 2nd."
+    ],
+    "highlights": [
+        {"title": "Announcement of the move details", "src": "0"},
+        {"title": "Office layout plan", "src": "1"},
+        {"title": "List of available equipment", "src": "2"},
+        {"title": "List of people and their projects", "src": "3"}
+    ]
+}

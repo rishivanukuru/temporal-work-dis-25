@@ -1,0 +1,22 @@
+{
+    "title": "Remote Control Design",
+    "attendees": "Laura, Andrew, David, Craig",
+    "goals": [
+        "Finalize target market as ages 15 to 35.",
+        "Determine product functionality: focus on TV only, add corporate color."
+    ],
+    "progress": [
+        "Market research prioritized fancy look [Andrew].",
+        "Discussed innovative yet simple design [Craig]."
+    ],
+    "plans": [
+        "Develop ergonomic, curvy design based on theme [Laura].",
+        "Consider integrating jog dial for controls [Andrew]."
+    ],
+    "highlights": [
+        {"title": "Trend Watching Slide", "src": "6"},
+        {"title": "Market Research Findings", "src": "8"},
+        {"title": "Style Trend Overview", "src": "10"},
+        {"title": "Design Discussion Proposal", "src": "11"}
+    ]
+}

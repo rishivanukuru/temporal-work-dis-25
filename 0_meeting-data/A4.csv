@@ -1,0 +1,79 @@
+Time,Action,Detail,Horizon,Timescale
+111,Planning,Agenda for this meeting,Now,1
+385,Recollecting,Ask for an update,Last week,2
+417,Recollecting,Interview details,Last few weeks,3
+425,Planning,Joining of new team member,Next few months,4
+452,Reflecting,Discussions around hiring,Last few months,4
+505,Recollecting,"An email, person leaving organization",Two weeks ago,3
+535,Reflecting,On the change,Two weeks ago,3
+543,Planning,Reach out to people,Next few weeks,3
+551,Planning,"Reach out to people, let team know",Next few weeks,3
+578,Recollecting,Relationship with organization and team,20 years,5
+604,Recollecting,Specific piece of information,Few years,5
+620,Reflecting,Person's ability,Last few years,5
+627,Recollecting,Potential alignment,Few years ago,5
+646,Recollecting,Recent advice,Recent past,4
+661,Recollecting,Exploring potential,Recent past,4
+686,Recollecting,First thing to mind,2 weeks ago,3
+745,Recollecting,About the person,Recent and distant past,5
+761,Planning,Compute story,Upcoming year,5
+785,Recollecting,Task completed,Recent past,4
+845,Planning,"Migrate away, specific tasks",Near future,4
+870,Recollecting,"An experiment, to explain",Recent past,4
+899,Intention,Need to be careful while doing certain task,Near and distant future,5
+910,Intention,Building skills,Near and distant future,5
+961,Recollecting,Remembering intentions,Recent past,4
+986,Planning,Ask to contact,Near future,4
+990,Planning,Account for holidays,Near future,4
+1041,Planning,Account for holidays,Near future,4
+1060,Planning,Task to update,Every week,3
+1071,Planning,Task to update,Every week,3
+1081,Planning,Task to update,Every week,3
+1195,Planning,Seeking information about a deadline,Near future,4
+1233,Planning,Migration tasks,This week,2
+1240,Planning,Migration tasks,This week,2
+1271,Planning,Migration tasks,This week,2
+1289,Recollecting,Prior status,Distant past,5
+1299,Reflecting,Prior and current status,Recent and distant past,5
+1313,Reflecting,Prior and current status,Recent and distant past,5
+1370,Intention,Decide course of action based on feedback,Near future,4
+1388,Planning,Send feedback,Near future,4
+1409,Simulation,Question about immediate tasks,Near future,4
+1421,Simulation,Question about immediate tasks,Near future,4
+1472,Planning,Mentioning new work phase,This year,5
+1491,Simulation,Possible pitfall,Near future,4
+1575,Planning,Whether steps are okay,Near and distant future,5
+1586,Planning,Task to follow up on something,Near future,4
+1588,Planning,Task to follow up on something,Near future,4
+1602,Intention,How to use something efficiently ,Near future,4
+1626,Recollecting,Conversation from earlier,Now,1
+1756,Planning,Better workflows,Near future,4
+1793,Planning,Better workflows,Near future,4
+2084,Recollecting,Paper submission,Last week,2
+2109,Reflecting,Outcome of the paper,Last week,2
+2196,Planning,Share paper soon,Next week,2
+2420,Recollecting,Part of this conversation,This meeting,1
+2453,Reflecting,Status of things,Recent to distant past,5
+2464,Reflecting,Ongoing conversation,Last few weeks,3
+2475,Recollecting,Back to previous conversation,Few weeks ago,3
+2485,Planning,Use conversation threads,Next few weeks,3
+2510,Planning,Talk to external member,Next few weeks,3
+2514,Reflecting,Past practices,Last few years,5
+2554,Planning,Need for a deeper conversation,Near to distant future,5
+2571,Planning,Follow-up thread,Next few weeks,3
+2578,Planning,Follow-up thread,Next few weeks,3
+2610,Recollecting,Recent tech talk,Last few weeks,3
+2700,Reflecting,Purpose of task,Last few weeks,3
+2702,Planning,What to do next,Near future,4
+2728,Planning,What to do next,Near future,4
+2742,Planning,What to do next,Next month,4
+2782,Planning,Heads up for others in the team,Next few weeks,3
+2871,Reflecting,comparing to other experiments,Recent past,4
+3201,Intention,Purpose of the research project,Near and distant future,5
+3245,Simulation,Reflecting on possible outcomes,Near and distant future,5
+3288,Planning,Demo requirements,Near future,4
+3333,Planning,Shifting the talk,Next week,2
+3364,Planning,Project launch announcement,This week,2
+3396,Planning,Task to fill out planning table,Next few days,2
+3422,Recollecting,Process has begun,Last few days,2
+3440,Recollecting,Update on a colleague,Last few weeks,3

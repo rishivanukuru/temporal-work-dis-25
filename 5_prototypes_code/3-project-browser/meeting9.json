@@ -1,0 +1,22 @@
+{
+    "title": "Design Evaluation Meeting",
+    "attendees": "Laura, Andrew, David, Craig",
+    "goals": [
+        "Finalize remote control design features.",
+        "Evaluate the project against initial goals."
+    ],
+    "progress": [
+        "Remote control shape set to snowman design [Laura]",
+        "LCD screen added for menu navigation [Andrew]"
+    ],
+    "plans": [
+        "Replace advanced chip with regular for cost efficiency [David]",
+        "Ensure final report submission includes evaluation criteria [Laura]"
+    ],
+    "highlights": [
+        {"title": "Evaluation criteria discussion", "src": "0"},
+        {"title": "Method of product evaluation", "src": "1"},
+        {"title": "Cost analysis spreadsheet", "src": "4"},
+        {"title": "Final product rating slide", "src": "2"}
+    ]
+}

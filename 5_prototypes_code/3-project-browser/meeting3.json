@@ -1,0 +1,22 @@
+{
+    "title": "Design Meeting Summary",
+    "attendees": "David, Andrew, Laura, Craig",
+    "goals": [
+        "Review previous meeting decisions about product features",
+        "Discuss presentations and finalize concepts for the product"
+    ],
+    "progress": [
+        "Decided target group and some product specifications [Laura]",
+        "Discussed market trends and potential design themes [Andrew]"
+    ],
+    "plans": [
+        "Explore incorporating kinetic energy for power [David]",
+        "Consider snowman shape for ergonomic design [Craig]"
+    ],
+    "highlights": [
+        {"title": "User Interface Options", "src": "0"},
+        {"title": "Market Trends Overview", "src": "8"},
+        {"title": "Design Discussion Topics", "src": "11"},
+        {"title": "Trend Watching Presentation", "src": "6"}
+    ]
+}

@@ -1,0 +1,774 @@
+2.41 - 30.51 :: (Laura) :: Okay we all all set? Right. Well this is the uh final detailed design meeting. Um we're gonna discuss the look and feel design, the user interface design, and we're gonna evaluate the product. And the end result of this meeting has to be a decision on the details of this remote control, like absolute final decision, um and then I'm gonna have to specify the final design in the final report.
+31.0 - 68.34 :: (Laura) :: So um just from from last time to recap, we said we were gonna have a snowman shaped remote control with no L_C_D_ display, no need for talk-back, it was hopefully gonna be kinetic power and battery uh with rubber buttons, maybe backlighting the buttons with some internal L_E_D_s to shine through the casing, um hopefully a jog-dial, and incorporating the slogan somewhere as well. Anything I've missed? Okay um so uh if you want to present your prototype go ahead.
+59.26 - 59.39 :: (David) :: No.
+70.11 - 95.42 :: (Andrew) :: Uh-oh. This is it? Um, there are a few changes we've made. Um, well look at the expense sheet, and uh it turned to be quite a lot expensive to have open up and have lots of buttons and stuff inside, so instead we've um this is gonna be an L_C_D_ screen, um just a a very very basic one, very small um with access to the menu through the the scroll wheel and uh confirm
+71.75 - 74.016 :: (David) :: Ninja Homer, made in Japan.
+76.93 - 77.46 :: (Laura) :: Okay.
+79.57 - 80.19 :: (Laura) :: Mm.
+84.93 - 85.28 :: (Laura) :: Mm-hmm.
+96.64 - 101.71 :: (Andrew) :: um button. Uh, apart from that, it's just pretty much the same as we discussed last time.
+98.46 - 98.75 :: (Craig) :: Mm 'kay.
+101.92 - 111.34 :: (David) :: And there isn't uh d it doesn't open up to the advanced functions? So the advanced functions are still hidden from you, but they're hidden in the sense that um they're not in use.
+111.8 - 112.25 :: (Craig) :: Where are they?
+112.76 - 116.422 :: (David) :: Um they're in the L_C_D_ panel and the jog-dial? Okay 'cause
+114.85 - 116.18 :: (Craig) :: Ah, right. Great.
+116.08 - 118.16 :: (Laura) :: So w what kind of thing uh is gonna be
+118.1 - 136.6 :: (David) :: The L_C_D_ panel just displays um functionally what you're doing. If you're using an advanced function right, like um c brightness, contrast, whatever, it will just say You know it's like it only has four columns, it's a very simple L_C_D_ like, whereas many the minimum amount we need that the user will automatically know like this is brightness or this is contrast.
+121.54 - 121.77 :: (Craig) :: Right.
+125.94 - 126.23 :: (Craig) :: Okay.
+131.4 - 131.67 :: (Craig) :: Right.
+136.58 - 138.22 :: (Laura) :: Mm-hmm. Okay cool.
+136.76 - 138.6 :: (Craig) :: Right, 'kay.
+137.92 - 146.65 :: (David) :: It might even be one, a bit more complex L_C_D_ panel with pictures like maybe the sun or the, you know, the the symbols of the various functions.
+140.72 - 141.11 :: (Craig) :: Okay.
+145.77 - 148.12 :: (Craig) :: Mm-hmm, and what is this here?
+146.11 - 147.82 :: (Laura) :: Oh right okay. Cool.
+148.82 - 149.72 :: (David) :: That's a number pad.
+149.7 - 152.42 :: (Craig) :: Okay so the number pad is 'Kay, great.
+151.6 - 153.45 :: (Laura) :: Where are we gonna have the slogan?
+154.18 - 156.79 :: (David) :: Um they're al along this Yeah.
+154.79 - 156.65 :: (Andrew) :: You know, just like right inside there.
+157.49 - 158.43 :: (Laura) :: Okay cool.
+158.4 - 162.78 :: (David) :: You have this space here, and then you have this thing on the side as well, or at the bottom.
+164.1 - 164.75 :: (Laura) :: Okay.
+164.2 - 169.25 :: (David) :: 'Cause slogans are usually quite small, right, they're not like huge so they're s
+166.39 - 166.53 :: (Craig) :: Mm.
+168.79 - 168.97 :: (Craig) :: Yep.
+170.71 - 176.85 :: (David) :: Say a button's about say a button's about this size, right, so you would still have plenty of space for a slogan, say even for that.
+170.93 - 171.71 :: (Laura) :: Okay.
+171.02 - 171.74 :: (Craig) :: Looks good.
+173.65 - 173.87 :: (Craig) :: Yep.
+174.745 - 176.54 :: (Craig) :: Mm-hmm.
+176.44 - 178.51 :: (Laura) :: So if this isn't to scale, what kind of
+179.6 - 181.76 :: (Laura) :: dimensions are you thinking about here?
+181.841 - 190.9 :: (Andrew) :: Well we want the other buttons to be big enough to push easily with a finger so we reckon maybe that'll be about the same size as the palm of your hand.
+185.42 - 186.12 :: (Laura) :: Mm-hmm.
+189.4 - 189.77 :: (Craig) :: Okay.
+190.39 - 195.09 :: (David) :: Yep so that would be about a centimetre for a button, so one two three
+197.42 - 201.96 :: (David) :: four centimetres. Plus maybe half o five
+200.85 - 201.24 :: (Craig) :: Mm-hmm.
+202.44 - 203.52 :: (Craig) :: About nine in total.
+202.92 - 206.43 :: (David) :: six seven eight, about yeah nine total.
+203.12 - 204.89 :: (Laura) :: Six, seven, eight, nine, ten.
+205.42 - 215.01 :: (Laura) :: So we're talking about ten centimetres. That would be good. So ten centimetres in height. Okay um.
+205.99 - 207.3 :: (Craig) :: That sounds good. Yeah.
+208.76 - 208.89 :: (Craig) :: Yep.
+209.73 - 210.43 :: (David) :: Nine, ten.
+211.12 - 211.71 :: (David) :: Yep.
+215.19 - 222.09 :: (Craig) :: That'd be good, in fact a pen is about ten centimetres usually, so that would be that sounds like a really good size, if you see it there.
+220.61 - 221.12 :: (Laura) :: Yeah.
+222.23 - 226.35 :: (Laura) :: That's great and it's very bright as well. So um okay.
+224.24 - 224.45 :: (Craig) :: Mm.
+225.98 - 234.3 :: (Craig) :: Is it possible uh I'm just gonna bring up the idea of colours. Is these are these the colours that of production, or is this just what we had available?
+232.43 - 233.33 :: (Andrew) :: Well I'm
+234.44 - 240.07 :: (Andrew) :: We're gonna have again the the sort of the foggy um yellow from last time that lit up when you pushed the button.
+240.24 - 240.47 :: (Craig) :: Right.
+240.86 - 242.672 :: (Andrew) :: Um
+240.91 - 246.4 :: (Laura) :: Okay so just could you just list all the things that it does s so I can write them in the report.
+245.88 - 264.13 :: (Andrew) :: But um this button um, because it's red it's sort of very prominent, we're gonna use it as uh it can be the power button if you hold it for maybe two seconds it'll send a stand-by signal. Um apart from that it's gonna be used as a confirm button for the L_C_D_ screen and you use this as a jog-dial.
+255.955 - 259.83 :: (David) :: Excuse me.
+256.26 - 256.62 :: (Laura) :: Mm-hmm.
+259.89 - 260.12 :: (David) :: Sure.
+262.0 - 262.32 :: (Laura) :: Okay.
+264.3 - 267.02 :: (Laura) :: Okay so that's like an okay button, right.
+267.49 - 267.75 :: (Craig) :: Mm-hmm.
+268.09 - 271.232 :: (David) :: Oh we've discussed how h high it is, but how wide is it?
+268.67 - 269.26 :: (Andrew) :: I don't know.
+272.68 - 273.96 :: (Laura) :: Okay.
+273.12 - 273.83 :: (Craig) :: How high is it?
+274.02 - 276.91 :: (David) :: No as in the height, but what about the width?
+275.28 - 275.54 :: (Craig) :: Yeah.
+277.25 - 278.72 :: (Andrew) :: Didn't put five centimetres.
+277.35 - 279.61 :: (Laura) :: Oh oh like depth of the actual thing.
+279.14 - 282.33 :: (David) :: Do we need five? I don't think five is be about th three and a half.
+280.24 - 280.87 :: (Andrew) :: Um.
+283.11 - 283.45 :: (Craig) :: Okay.
+284.26 - 284.83 :: (Andrew) :: Something by there.
+284.28 - 291.49 :: (Laura) :: Oh is this k to get an idea of scale from your from your thing there okay. So you can power on and off, what else can you do?
+285.93 - 287.92 :: (David) :: Yeah, yeah.
+286.77 - 287.17 :: (Craig) :: Sure.
+290.57 - 291.09 :: (Craig) :: Three and a half.
+291.94 - 294.51 :: (Andrew) :: Um you can skip straight to a channel using these buttons.
+294.34 - 295.19 :: (Laura) :: Okay.
+300.99 - 307.61 :: (Andrew) :: Um, were gonna have the volume control here, but um because we've got the the L_C_D_ and the jog-dial we just thought we'd um use that as the volume.
+308.08 - 309.76 :: (Laura) :: Okay jog-dial for volume.
+312.01 - 313.57 :: (Laura) :: And what else do you do with the jog-dial?
+312.12 - 312.69 :: (Craig) :: Mm-hmm.
+314.2 - 318.336 :: (Andrew) :: Um you can use it for um more advanced functions like contrast, colour and
+318.84 - 324.19 :: (Laura) :: Contrast, brightness, yeah, and anything else?
+320.89 - 321.85 :: (Andrew) :: Um yeah.
+324.79 - 330.064 :: (Andrew) :: Um just whatever else we wanted to include as the advanced functions, um we didn't actually go through and specify the
+330.57 - 332.89 :: (Laura) :: Well of the designers what are they?
+332.96 - 334.97 :: (Andrew) :: Uh what can a T_V_ do?
+335.83 - 341.61 :: (David) :: Okay things like um brightness, contrast, um maybe tuning the channels.
+338.31 - 338.66 :: (Laura) :: Uh-huh.
+342.18 - 344.4 :: (Laura) :: Okay channel tuning. That's a good one.
+342.9 - 343.98 :: (David) :: Um.
+345.08 - 349.36 :: (David) :: What else? Um the various inputs. Are you having a V_C_R_, are you having you know which input do you have?
+347.41 - 348.29 :: (Craig) :: Mm-hmm, mm-hmm.
+349.43 - 351.43 :: (Laura) :: Okay auxiliary inputs.
+350.26 - 352.13 :: (Craig) :: Mm-hmm, probably colour or sharpness.
+350.88 - 351.33 :: (David) :: Um.
+353.06 - 359.87 :: (David) :: Yep, colour, sharpness. Um a lot of these things will have to be um free and open for users to define them.
+354.57 - 355.66 :: (Laura) :: Sharpness.
+360.06 - 360.3 :: (Craig) :: Mm-hmm.
+360.15 - 364.65 :: (Laura) :: Okay what about uh sound settings? Uh d can you change any of those at all?
+364.63 - 365.02 :: (Craig) :: Audio.
+365.19 - 370.05 :: (David) :: Audio, we have like your basic y your base, your mid-range, your high range.
+366.83 - 367.56 :: (Andrew) :: Um.
+371.021 - 373.22 :: (Andrew) :: the the balance hmm.
+371.3 - 371.9 :: (David) :: Um.
+373.4 - 388.33 :: (David) :: Yep, left-right balance, um maybe even pre-programmed sound modes, like um the user could determine like a series of sound modes, and then what could happen would be um when you click on that then it would go to that setting.
+378.48 - 379.08 :: (Laura) :: Okay.
+383.86 - 384.11 :: (Craig) :: Mm-hmm.
+388.79 - 391.75 :: (Laura) :: Okay, is there anything else at all it can do?
+388.95 - 389.27 :: (Craig) :: Mm 'kay.
+389.74 - 389.96 :: (David) :: Yeah.
+393.44 - 404.464 :: (Laura) :: That 'cause that's that's fine. Just need to know so I can write it down. Okay um right I g I guess that's it, so we can now um
+405.74 - 408.04 :: (Laura) :: We can now have a little look at the
+409.24 - 412.35 :: (Laura) :: the Excel sheet and price listing, and see if we need to
+413.42 - 413.82 :: (Andrew) :: Mm-hmm.
+413.89 - 427.91 :: (Laura) :: um if we need to rethink anything at all. So um for this first part here power-wise, have we got battery? Do we have kinetic as well? No. Okay, just battery.
+421.58 - 422.14 :: (David) :: The battery.
+424.42 - 424.78 :: (David) :: No.
+426.39 - 426.87 :: (David) :: Um.
+430.48 - 431.448 :: (David) :: We need an
+431.02 - 436.74 :: (Laura) :: And that's because of cost restraints is it? Okay um what about the electronics here? Advanced chip.
+432.42 - 432.75 :: (David) :: Yep.
+432.69 - 433.07 :: (Andrew) :: Yeah.
+433.96 - 440.48 :: (David) :: Yeah advanced chip. We need an advanced chip I think, yep. Let me just confirm that. Yes I think so.
+446.55 - 446.86 :: (David) :: Yep.
+449.08 - 452.31 :: (Laura) :: Okay um the case, what does it mean by single and double, do you know?
+452.96 - 456.68 :: (Andrew) :: Um I think single would just be sort of one sort of oval whereas double is this sort of thing.
+456.85 - 457.2 :: (David) :: Yeah.
+456.85 - 459.05 :: (Laura) :: So we want double-curved? Okay.
+458.07 - 458.32 :: (David) :: Yep.
+460.87 - 463.41 :: (Laura) :: Um.
+461.72 - 462.32 :: (David) :: Plastic.
+464.6 - 467.65 :: (Laura) :: Is there any rubber at all in the buttons or any
+466.19 - 467.65 :: (David) :: I think we're gonna have to skip the rubber.
+467.78 - 475.2 :: (Laura) :: Okay, um and we wanted special colours didn't we? So I'll have to put that Oh no wait we ho how many colours have we got there?
+468.84 - 469.78 :: (David) :: Um.
+471.53 - 471.75 :: (David) :: Yep.
+475.97 - 479.28 :: (David) :: For the case itself, one colour. It's one special colour.
+479.25 - 480.32 :: (Laura) :: Just one colour, okay.
+480.56 - 483.12 :: (David) :: 'Cause the case unit itself, the rest of our components go on top of it.
+482.4 - 486.96 :: (Laura) :: Okay so interface-wise, is it this third option we have, the two of them there?
+482.76 - 483.03 :: (Craig) :: Mm.
+485.65 - 486.08 :: (David) :: Yes.
+487.22 - 489.59 :: (David) :: One and the L_C_ display.
+490.15 - 496.28 :: (Laura) :: Okay and then buttons, we have what, two colours?
+493.68 - 494.336 :: (David) :: How many
+494.84 - 498.38 :: (Andrew) :: Um we have um got some push buttons as well.
+497.15 - 497.87 :: (Craig) :: Or even clear.
+498.69 - 499.9 :: (David) :: We've got push buttons as well.
+503.04 - 506.51 :: (Laura) :: Like uh oh wait so push button and integrated scroll wheel push okay.
+503.47 - 503.67 :: (Andrew) :: 'Kay.
+506.6 - 509.18 :: (Andrew) :: So I reckon we've got one button for this thing 'cause it's just one big sheet of rubber.
+509.59 - 509.93 :: (Laura) :: Uh-huh.
+510.63 - 513.12 :: (Andrew) :: I'm not sure if that counts but
+512.87 - 513.26 :: (Laura) :: Okay.
+513.03 - 516.02 :: (David) :: Okay let's just be safe and put like say four buttons for that one.
+516.74 - 517.32 :: (Laura) :: Okay.
+517.76 - 522.75 :: (David) :: Okay um and maybe a special colour for the buttons, so maybe four again.
+523.59 - 528.69 :: (Laura) :: Four. So w why are we arriving at the number four? Where does the number four come from?
+523.66 - 525.699 :: (Andrew) :: You can see we're we're all very far beyond the
+528.82 - 532.14 :: (David) :: 'Cause that's one button by its the complexity of twelve buttons.
+532.53 - 535.21 :: (Laura) :: Okay right, so we're writing down four.
+534.09 - 536.65 :: (David) :: So we're just estimating that yeah it would be less.
+536.645 - 537.22 :: (Laura) :: Okay.
+539.58 - 555.184 :: (Laura) :: How about these? Are we wanting them in no they're just is everything gonna be plastic? Okay. So we're w w quite far over. Now we're gonna something's gonna have to go. Um we're at sixteen point eight and
+541.33 - 541.77 :: (David) :: No.
+543.48 - 544.59 :: (David) :: Yep. Yep.
+554.17 - 558.942 :: (Craig) :: Uh how mm-hmm how are we going to achieve this high-end product if
+560.01 - 573.77 :: (Laura) :: Well we h something has to go to the tune of two point t three Euro, so let me see, what are we I mean oh yes sorry, four point three. My maths is all out.
+561.03 - 563.108 :: (Craig) :: We only have very sparse
+568.96 - 570.64 :: (Craig) :: Two point three? Four point three no?
+573.89 - 577.36 :: (Andrew) :: Well we could take out ones by making it single curved, just fill in those bits.
+578.66 - 579.24 :: (Laura) :: Yeah.
+579.33 - 580.096 :: (Craig) :: And then where is the
+579.67 - 589.43 :: (David) :: How much would that save us? That will only save you one. The other thing could be that um you could take away the L_C_D_ panel and the advanced chip together, um because when you
+580.6 - 583.02 :: (Laura) :: How much would that save us? One.
+581.75 - 582.63 :: (Andrew) :: That is one.
+590.86 - 605.506 :: (David) :: do something on the T_V_, the T_V_ responds and reacts as well, so the user could be looking at the T_V_ and pushing his thing so we may not need to so when we scroll we need just some way to get the T_V_ to respond, which I think is a technically doable thing so
+591.97 - 592.29 :: (Craig) :: Mm-hmm.
+597.14 - 598.11 :: (Andrew) :: That's fair enough, yeah.
+599.15 - 599.43 :: (Craig) :: Mm-hmm.
+601.34 - 601.67 :: (Craig) :: Mm-hmm.
+602.97 - 603.776 :: (Laura) :: Okay so
+603.13 - 603.4 :: (Craig) :: Mm-hmm.
+605.22 - 605.5 :: (Craig) :: Mm-hmm.
+605.56 - 610.56 :: (Laura) :: So w what's our reviewed suggestion? Um take away the L_C_ display?
+610.5 - 610.69 :: (David) :: Yep.
+612.69 - 614.31 :: (David) :: And the advanced chip goes away as well.
+612.81 - 613.06 :: (Craig) :: Mm-hmm.
+614.74 - 617.93 :: (Laura) :: To be replaced with a regular chip.
+616.6 - 617.1 :: (David) :: Regular chip.
+618.46 - 618.75 :: (David) :: Yep.
+621.84 - 622.14 :: (Craig) :: Mm-hmm.
+621.85 - 622.38 :: (Laura) :: Okay.
+622.12 - 624.215 :: (David) :: So what that means is that um
+623.387 - 631.48 :: (Laura) :: And so we've got point three to get rid of. Um and we ha where are the four the four push buttons are where exactly now?
+631.76 - 634.74 :: (David) :: The twelve buttons that you see there.
+633.87 - 634.73 :: (Laura) :: Twelve buttons.
+635.3 - 639.041 :: (Andrew) :: That's um one piece of rubber but it's gonna have twelve button things underneath so
+637.6 - 638.28 :: (Laura) :: Yeah.
+638.2 - 641.44 :: (David) :: Functionally you're gonna have to intercept So four is a good estimate for
+641.84 - 642.35 :: (Laura) :: Do you think?
+642.98 - 648.93 :: (David) :: Yeah, so you can't actually cut It's like three times the number of buttons, four, eight, twelve.
+647.71 - 654.39 :: (Laura) :: Like is is that one big button or is it twelve buttons, how can it be something in between?
+653.07 - 663.49 :: (David) :: It It needs to be more than one big button because if you open up your phone, underneath there's actually one button underneath, it's just that the panel itself is a single panel.
+658.82 - 659.13 :: (Craig) :: Mm-hmm.
+659.54 - 660.12 :: (Laura) :: Mm.
+663.67 - 664.03 :: (Craig) :: Mm-hmm.
+663.86 - 666.81 :: (Laura) :: Okay well we have point three to get rid of somewhere.
+668.08 - 674.57 :: (David) :: We just report that it has to be over budget, or the colours, you could take away s colours for th for the buttons.
+668.19 - 668.78 :: (Laura) :: Mm.
+672.26 - 673.13 :: (Laura) :: No can do.
+674.83 - 676.746 :: (Craig) :: Yeah we could just go with um
+675.73 - 676.3 :: (Andrew) :: Yeah w
+676.45 - 677.76 :: (David) :: Normal coloured buttons.
+679.46 - 681.76 :: (Laura) :: Well do you want colour differentiation here?
+682.2 - 686.08 :: (David) :: No that's not the button we're talking about. That's the buttons only refer to the pad so
+682.24 - 682.888 :: (Andrew) :: Um
+683.24 - 684.307 :: (Laura) :: Oh yeah sorry yeah then.
+686.65 - 687.808 :: (Laura) :: Right so
+688.13 - 689.79 :: (David) :: Should we take that off uh?
+690.06 - 690.74 :: (Laura) :: Ah.
+692.39 - 700.16 :: (David) :: Hey it's back to the original. Um so then these just become normal coloured buttons, so that might be some some way of cutting the cost.
+692.44 - 692.85 :: (Laura) :: That's it.
+693.61 - 693.78 :: (Craig) :: Hmm.
+697.36 - 697.6 :: (Craig) :: Mm-hmm.
+700.48 - 700.75 :: (Craig) :: Mm.
+701.56 - 716.384 :: (Laura) :: Okay, ach that's a shame. Um right, so take away that completely? Ah. And now we're under budget. So we do have point five Euro to play with if we wanted. Um
+714.601 - 716.624 :: (Andrew) :: So I reckon
+716.26 - 719.38 :: (Craig) :: How about with embossing the logo, isn't that going to cost us some money?
+719.99 - 721.6 :: (Laura) :: Doesn't say so.
+721.06 - 721.38 :: (Craig) :: Yeah.
+721.66 - 722.38 :: (Craig) :: That's a freebie.
+721.67 - 724.14 :: (Andrew) :: Reckon that probably counts as a special form for the buttons.
+724.36 - 724.62 :: (David) :: Yeah.
+724.66 - 725.83 :: (Laura) :: Yeah that's a good idea.
+727.43 - 728.12 :: (Laura) :: Just one?
+730.58 - 733.152 :: (Laura) :: Does that mean that one button has a special form or
+734.0 - 737.8 :: (Andrew) :: I think there's just one button so handy.
+735.52 - 750.51 :: (Laura) :: Yeah okay. Well well there we go. So I'm just gonna have to redraw this now. So we're not gonna have the L_C_D_ anymore, and we'll just gonna have an on t on the T_V_ it'll show you what you're doing, which I think is fair enough, and so this is gonna be one big thing here.
+753.01 - 754.67 :: (Laura) :: Um.
+755.56 - 761.43 :: (Craig) :: Was the goal in your in your prototype design that it be as low profile as possible?
+762.26 - 763.45 :: (David) :: What do you mean by profile?
+762.65 - 763.2 :: (Andrew) :: Yeah.
+762.8 - 765.14 :: (Craig) :: Sort of flat as possible.
+765.62 - 765.87 :: (David) :: No.
+766.17 - 772.07 :: (Andrew) :: You see I envision it as being um quite deep sort of deep enough to be comfy to hold in your hands rather than being wide and flat.
+768.84 - 769.1 :: (Craig) :: Yeah.
+770.55 - 773.49 :: (Craig) :: Yeah that's what I was thinking, to Sure, okay.
+772.42 - 776.592 :: (David) :: We didn't have enough Play-Doh to make it three D_.
+774.2 - 777.05 :: (Craig) :: Yeah alright yeah fair enough. Okay, just thought I'd ask.
+777.91 - 783.5 :: (David) :: So there's one more dimension to the thing which we need to to add, and you might want to add in the report, length, width, and height.
+779.7 - 779.95 :: (Craig) :: Mm-hmm.
+784.01 - 791.85 :: (Laura) :: Right okay. So just to well to be thorough then, width-wise we're looking at about what three centimetres or something?
+785.24 - 785.44 :: (David) :: Yeah.
+792.36 - 792.62 :: (David) :: Yeah.
+793.04 - 796.752 :: (Laura) :: Okay and then so height-wise
+794.83 - 795.36 :: (Craig) :: Hmm.
+801.25 - 806.87 :: (Laura) :: How how tall do you envisage it being? About that big? About two centimetres, okay.
+804.05 - 805.0 :: (Andrew) :: Yeah it works, yeah.
+804.4 - 804.57 :: (David) :: Two.
+807.14 - 810.03 :: (Craig) :: Two's not very high at all though. Maybe a bit higher?
+809.38 - 810.86 :: (David) :: This is about this is about two.
+812.92 - 814.458 :: (David) :: Slightly more than two, so
+813.554 - 814.27 :: (Craig) :: Yeah.
+813.63 - 815.4 :: (Andrew) :: See, about that thick.
+815.37 - 824.11 :: (Laura) :: Okay. Ach, that is Yeah. Okay we'll s we'll say two point five. Okay um so we have it within cost anyway.
+815.59 - 817.92 :: (Craig) :: Maybe closer to three even or two and a half.
+816.92 - 817.4 :: (David) :: Okay.
+825.65 - 828.83 :: (Laura) :: Um so yeah project evaluation is this point.
+830.21 - 830.73 :: (Laura) :: Um.
+831.55 - 831.81 :: (Craig) :: Mm-hmm.
+832.83 - 834.78 :: (Laura) :: Right uh.
+836.72 - 845.16 :: (Laura) :: Okay so can we close that? This is what it's the final spec that it's gonna be. Someone is gonna have to yeah that's fine that's fine.
+841.48 - 841.76 :: (Craig) :: Mm-hmm.
+845.12 - 867.128 :: (Craig) :: Um it's probably just I dunno if it's worth getting into, but um just in in that we want this to be stylish, should we think a little bit more out of the box in terms of a button grid, because I've seen there's lots of devices out there that that instead of taking your standard nine nine square grid, and they have it sort of stylized or in different concept that that
+866.32 - 882.314 :: (David) :: I think that's something that's very hard to catch, so you you restrict the number of people who wanna try something. The the look and the colour is something which is cool, but I think that there's also that factor of if it's too unfamiliar then um because when you put it on the shelf
+868.95 - 869.4 :: (Craig) :: Yeah.
+872.38 - 873.13 :: (Craig) :: Sure, okay.
+875.4 - 876.13 :: (Craig) :: Yeah, alright.
+878.95 - 880.14 :: (Craig) :: Okay, sure.
+881.32 - 883.29 :: (Craig) :: What about button shape? Square buttons?
+883.33 - 893.52 :: (David) :: Yeah button shape might be a good idea to change, rather than rather than positioning, 'cause I think positioning is we're kinda engrained into the the telephone kind of
+885.65 - 885.99 :: (Craig) :: Okay.
+888.03 - 888.34 :: (Craig) :: Yeah.
+889.91 - 890.31 :: (Craig) :: Sure.
+892.036 - 892.59 :: (Andrew) :: Yeah.
+893.23 - 893.51 :: (Craig) :: Yeah.
+894.032 - 895.22 :: (Laura) :: Okay.
+895.12 - 895.66 :: (David) :: pad.
+896.33 - 897.8 :: (Laura) :: Right um.
+899.3 - 907.36 :: (Laura) :: So at this point we uh, let me see, discuss uh how satisfied we all are with um
+908.93 - 922.096 :: (Laura) :: with these four points, with the room for creativity in the project, and leadership and teamwork, and the stuff we had around us I guess. Um, let me see uh
+917.01 - 917.26 :: (Craig) :: Mm 'kay.
+923.41 - 924.976 :: (Craig) :: Do you want me to d um
+926.704 - 931.04 :: (Craig) :: Do you want me to do my um design evaluation last?
+931.968 - 935.424 :: (Laura) :: Yeah I wasn't really sure what that was
+932.13 - 934.47 :: (David) :: Maybe we should do the design evaluation first.
+932.5 - 932.895 :: (Craig) :: Or
+935.5 - 942.65 :: (Laura) :: Yeah, yeah go for that first. I wasn't entirely sure what uh who was supposed to be doing that, but y you go for it.
+935.91 - 936.59 :: (Craig) :: Evaluation.
+939.93 - 940.49 :: (Craig) :: Okay.
+941.3 - 941.64 :: (Craig) :: Sure.
+942.91 - 953.8 :: (Craig) :: Um, alright so the way this works, I'm gonna need to plug into PowerPoint, I'll try and do it as quick as possible. Um, this is um I'll just go over your head if that's okay.
+946.32 - 946.76 :: (Laura) :: Okay.
+948.49 - 949.04 :: (Laura) :: Okay.
+953.61 - 953.81 :: (Laura) :: Yeah.
+954.85 - 956.688 :: (David) :: I don't think you need the power, so
+956.75 - 957.21 :: (Craig) :: What's that?
+957.89 - 958.78 :: (David) :: No, that's okay that's okay.
+958.95 - 959.77 :: (Craig) :: I don't need the PowerPoint?
+960.1 - 964.96 :: (David) :: No, the power cord itself. Yeah, so then you have a bit more freedom to
+961.8 - 964.01 :: (Craig) :: Oh course, yeah that's true. Let me get that.
+964.9 - 965.72 :: (Craig) :: A bit more.
+970.37 - 978.496 :: (Craig) :: Okay, so what this is is a set-up for us to um uh use a kind of a like a
+970.96 - 972.29 :: (David) :: You you still have your blue fingers.
+974.77 - 975.26 :: (Andrew) :: Is it?
+976.06 - 977.7 :: (David) :: You killed a monster.
+979.64 - 1003.136 :: (Craig) :: The idea is that I've set up I've reviewed all of the um the points of discussion from the beginning, and used that as a criteria of evaluation for the um uh for the current design uh th or the plan, and uh so we can review that. Uh I think it's gonna end up being sort of elementary because we're sort we're in n we're not gonna probably use it to change anything but
+1005.48 - 1006.72 :: (Craig) :: Doesn't seem like it's going, does it?
+1007.53 - 1008.5 :: (Laura) :: Oh there it is.
+1007.89 - 1015.79 :: (Craig) :: Yeah, okay great. Uh and I'm gonna write up our results on the board, so this'll be a way for us to go through and decide if we're um sort of review where we stand with it.
+1017.49 - 1020.368 :: (Craig) :: Okay, so um
+1021.99 - 1044.11 :: (Craig) :: So to sort of b bring together two things, sort of design goals and also the market research that we had, uh when we rate this, one is v high in in succeeding or fitting to our original aim and seven is low, okay. So these i these i th are the and um we've been asked to uh to collectively rate this, so what we can do is try and just y work on a consensus system so
+1034.12 - 1034.98 :: (Laura) :: Mm 'kay.
+1045.42 - 1051.93 :: (Craig) :: we just come to an agreement. Okay? So the first one uh, stylish look and feel.
+1046.7 - 1047.16 :: (Laura) :: Okay.
+1052.71 - 1053.72 :: (David) :: I rate that pretty highly.
+1053.81 - 1061.17 :: (Laura) :: Well yeah, I mean compared to most remote controls you see that's pretty good. I dunno like a six or something. What does anybody else think?
+1053.91 - 1054.43 :: (Andrew) :: Yeah.
+1055.15 - 1055.4 :: (Craig) :: Yeah.
+1057.73 - 1057.96 :: (Craig) :: Yeah.
+1059.88 - 1067.44 :: (Craig) :: Yeah um me uh my only reservation with it was that we basically went with yellow because it's the company's colour, and I don't know if yellow's gonna really be a hit.
+1065.47 - 1066.0 :: (Laura) :: Mm.
+1068.53 - 1069.45 :: (Laura) :: Mm.
+1068.72 - 1070.528 :: (Craig) :: But
+1070.71 - 1071.29 :: (Laura) :: Okay.
+1071.49 - 1073.08 :: (Andrew) :: I'm seeing five then.
+1073.14 - 1073.85 :: (Craig) :: What do you guys think?
+1074.03 - 1077.08 :: (Laura) :: I would say five or six. David?
+1075.75 - 1076.07 :: (Craig) :: Okay.
+1077.06 - 1078.09 :: (David) :: Yep I'm fine with that.
+1078.11 - 1079.22 :: (Craig) :: Okay let's go with five then.
+1079.86 - 1080.41 :: (Laura) :: Okay.
+1080.5 - 1082.44 :: (Craig) :: Fi oh uh just actually the opposite.
+1081.56 - 1083.06 :: (David) :: It's one to seven, right?
+1083.14 - 1086.49 :: (Craig) :: The So it meant three, okay.
+1083.4 - 1086.13 :: (Laura) :: Oh yes sorry then, then I would say two or three.
+1088.36 - 1090.15 :: (David) :: Wait, what's the scale, one to seven, right?
+1089.81 - 1090.68 :: (Andrew) :: One's high-ish isn't it?
+1090.05 - 1090.31 :: (Laura) :: Yeah.
+1090.29 - 1091.82 :: (Craig) :: Yeah, one is high.
+1092.03 - 1094.93 :: (Andrew) :: Ah, okay so yeah, two or three.
+1095.01 - 1096.124 :: (Craig) :: 'Kay
+1095.65 - 1096.69 :: (David) :: Okay, it's upside-down.
+1096.14 - 1102.17 :: (Craig) :: Let's go with two point five then. Okay, um control high tech innovation.
+1103.1 - 1105.264 :: (Laura) :: Well it has the wee jog-dial but
+1103.37 - 1105.136 :: (Craig) :: We had to remove
+1105.16 - 1109.85 :: (Craig) :: Yeah, so we've had to remove a few of our features we wanted, but jog-dial
+1108.07 - 1108.62 :: (Laura) :: Mm.
+1111.01 - 1111.84 :: (Craig) :: 's good.
+1111.03 - 1113.87 :: (Laura) :: I'd go with three or four, maybe three.
+1111.14 - 1111.76 :: (David) :: Say it's more
+1112.05 - 1113.01 :: (Andrew) :: Eight three.
+1112.86 - 1118.05 :: (David) :: medium, but going towards a little bit higher than medium kind of thing. Yep.
+1116.23 - 1117.44 :: (Craig) :: Okay, three?
+1116.9 - 1118.11 :: (Laura) :: Yeah about three, okay.
+1118.63 - 1119.936 :: (Craig) :: Okay, um
+1122.31 - 1127.32 :: (Craig) :: Style reflects a fruit inspired colour, design. I shouldn't have said colour, but just
+1126.03 - 1126.46 :: (David) :: Lemon.
+1127.49 - 1128.224 :: (Laura) :: Well that's kind of
+1127.75 - 1134.816 :: (David) :: Okay, the blue the blue colours and don't re don't actually represent the colour, except for the b the the red button, they because for want of a
+1128.52 - 1129.11 :: (Andrew) :: Yeah.
+1128.73 - 1129.12 :: (Craig) :: Sorta.
+1131.62 - 1131.85 :: (Craig) :: Yeah.
+1133.57 - 1133.87 :: (Craig) :: Okay.
+1135.13 - 1138.25 :: (Laura) :: But the yellow, I mean it could be a lemon yellow colour, couldn't it?
+1135.21 - 1137.51 :: (Craig) :: Right. Yeah, could be. Yeah.
+1137.41 - 1141.94 :: (David) :: Yeah, the the yellow is more representative of the colour, but the button itself, the blue can be anything else.
+1139.89 - 1140.24 :: (Craig) :: Okay.
+1140.24 - 1140.57 :: (Laura) :: Yeah.
+1142.07 - 1143.53 :: (Craig) :: Okay so we'll go two.
+1144.93 - 1145.39 :: (Laura) :: Mm-hmm.
+1145.46 - 1145.6 :: (Craig) :: Yeah?
+1146.8 - 1151.5 :: (Craig) :: Okay, and um design is simple to use, simple in features.
+1151.95 - 1155.61 :: (Laura) :: Well yeah, I mean it's really basic looking isn't it? I mean I'd give that nearly a one.
+1153.44 - 1157.69 :: (Craig) :: F f yeah f fairly basic, you guys think?
+1157.86 - 1158.73 :: (Andrew) :: Yeah one.
+1158.52 - 1159.69 :: (David) :: Yep, that's fine.
+1158.84 - 1160.993 :: (Craig) :: Yeah, one? Okay.
+1161.86 - 1172.45 :: (Craig) :: Um, soft and spongy, have we achieved that? We've used mostly plastic in the end so it's going to be quite a bit of a compromise for price. Five?
+1169.41 - 1170.74 :: (Andrew) :: Yeah I think it's about five.
+1174.07 - 1176.652 :: (Laura) :: Five? That's really low. Well
+1174.704 - 1178.672 :: (Andrew) :: Yeah well we have to use uh plastic so it's probably gonna be
+1177.65 - 1179.52 :: (Laura) :: Yeah I suppose mm 'kay.
+1177.91 - 1178.494 :: (Craig) :: That's
+1180.05 - 1180.65 :: (Craig) :: Um
+1181.6 - 1182.73 :: (David) :: Yeah, company logo.
+1182.02 - 1185.85 :: (Craig) :: could we have used an entirely rubber frame to it? Was that an option?
+1186.45 - 1191.368 :: (Andrew) :: I think I'd probably increase the cost. We've only got like what, ten cents left so
+1186.78 - 1190.0 :: (David) :: I think it'll be cost prohibitive, yeah.
+1187.9 - 1189.1 :: (Craig) :: It would cost more than plastic.
+1190.15 - 1192.28 :: (Craig) :: Okay, logo, we've got it in there, haven't we?
+1192.47 - 1192.85 :: (David) :: Yep.
+1192.83 - 1196.16 :: (Laura) :: Yep. Gonna have that on the side, aren't we, like there or something?
+1198.09 - 1202.02 :: (Craig) :: Huh. And um it's within budget, yep. It is, isn't it?
+1202.02 - 1202.3 :: (Andrew) :: Yeah.
+1203.26 - 1210.32 :: (Craig) :: Okay, so we can say then that uh out of a possible or what would be our goal here?
+1210.67 - 1212.12 :: (Laura) :: Out of forty nine, I guess.
+1212.1 - 1215.23 :: (Craig) :: Yeah, out of forty nine with with zero being the highest.
+1217.75 - 1223.32 :: (Craig) :: We are at uh two, seven, eight, ten, fifteen point five.
+1226.68 - 1227.47 :: (Laura) :: 'S pretty good.
+1227.03 - 1228.29 :: (Craig) :: So it's pretty good.
+1230.31 - 1237.53 :: (Craig) :: Translates to something like about approximately seventy two percent efficacy
+1238.69 - 1239.81 :: (Craig) :: of our original goal.
+1240.96 - 1241.19 :: (Craig) :: Right?
+1242.24 - 1243.31 :: (Laura) :: Uh yeah.
+1242.82 - 1244.57 :: (Craig) :: I think 'cause if you turn that into
+1245.84 - 1246.41 :: (Craig) :: a hundred
+1247.81 - 1248.53 :: (Craig) :: it would be about
+1248.96 - 1251.49 :: (Laura) :: Twice that, about thirty one.
+1249.75 - 1254.348 :: (Craig) :: about thirty one, and then invert that, it's
+1254.04 - 1256.69 :: (Laura) :: So yeah ab well yeah about sixty nine, seventy percent yeah.
+1256.12 - 1258.56 :: (Craig) :: Oh right, about seventy, yeah seventy percent.
+1259.28 - 1260.1 :: (Laura) :: It's pretty good.
+1260.77 - 1264.59 :: (Craig) :: Okay, good. That was just a little formality for us to go through.
+1264.89 - 1265.36 :: (Laura) :: Okay.
+1265.75 - 1275.65 :: (Craig) :: Yep, oh hundred pound pen. Sorry alright. No.
+1272.88 - 1275.872 :: (Laura) :: Nobody saw it, honestly.
+1275.696 - 1277.504 :: (David) :: The cameras did.
+1276.91 - 1277.73 :: (Craig) :: Hmm.
+1277.96 - 1279.807 :: (Laura) :: Is that you all have all finished, or
+1279.48 - 1304.344 :: (Craig) :: Yeah that's that's me. I did have one other um one other frame I thought, I mean I I d not knowing how we would deal with this information, I thought okay in theory this kind of a process would be about refining our design, revisiting our original goals. It's not something I need to p push through, but I thought should we thinking more about the dimensions, um sort of like more of a three dimensional shapes as well as opposed to just that flat um
+1291.52 - 1292.15 :: (Laura) :: Uh-huh.
+1303.67 - 1304.05 :: (Laura) :: Mm-hmm.
+1304.47 - 1323.55 :: (Craig) :: Could our design involve a series of colours so that it's more of like a line where we have like sort of the, I don't know like the harvest line or the vibrant, I dunno the Whatever just some theme and then we have different tones, lime green, lemon. It's just discussion. I mean obviously we can just abandon this, it's fine. I'm just thinking about what we originally set out to do.
+1308.21 - 1308.35 :: (David) :: Yep.
+1317.83 - 1318.31 :: (Laura) :: Okay.
+1324.79 - 1327.47 :: (Craig) :: Um, yep so there. That's all.
+1325.12 - 1325.45 :: (Laura) :: Right.
+1327.59 - 1331.53 :: (Laura) :: Okay, great um are you submitting the
+1332.9 - 1337.22 :: (Laura) :: the um evaluation criteria or am I? I don't know what your instructions have been.
+1337.2 - 1343.3 :: (Craig) :: Um, I think to record it and uh I haven't been asked to submit it yet. Yeah.
+1343.41 - 1349.84 :: (Laura) :: Okay, uh just wondering if I need to include it in the minutes, because if you're submitting it anyway then Okay great.
+1348.56 - 1349.03 :: (Craig) :: I will, yeah.
+1349.83 - 1350.75 :: (David) :: It keeps getting too big.
+1351.2 - 1359.09 :: (Laura) :: Cool. Um right, uh well next up then, because we've done finance, is the project evaluation.
+1360.78 - 1366.16 :: (David) :: 'Kay I'm I'm listening I'm just trying to incorporate the logo into the the thing, so I'm playing with the Play-Doh as well.
+1363.83 - 1364.64 :: (Laura) :: Oh right, okay.
+1367.38 - 1370.576 :: (David) :: Just in case you're wondering, why is he still playing with the Play-Doh?
+1368.76 - 1368.92 :: (Craig) :: Huh.
+1387.48 - 1394.56 :: (David) :: Just about right L_E_G_O_ Lego.
+1390.63 - 1392.416 :: (Andrew) :: My leg.
+1400.52 - 1414.3 :: (Laura) :: Right, okay. Um well do you wanna um just individually say what you think about about these four points and or not those four points, my four points, sorry, forgotten that.
+1415.937 - 1418.416 :: (Laura) :: You got a different uh
+1430.12 - 1430.25 :: (Craig) :: Yep.
+1434.58 - 1438.96 :: (Craig) :: I like those printer cables that just have the two little butterfly clips like that. It's really quick.
+1437.48 - 1445.78 :: (Laura) :: Oh yeah, they're good aren't they, yeah. Right okay, um yeah here we are. Uh as a note we'll do this
+1440.43 - 1441.15 :: (Craig) :: To use.
+1447.28 - 1450.99 :: (Laura) :: alphabetically. Um do you wanna start Andrew?
+1449.8 - 1453.34 :: (Craig) :: Sure, um so what is it you're asking of me now?
+1453.37 - 1460.32 :: (Laura) :: I don't know, just um your opinion on those four those four points really and how we used them. Yeah.
+1457.97 - 1465.71 :: (Craig) :: Or sort of our work on setting this up. Yeah. Well, is it uh okay I'll just go through your system then. The the room uh
+1466.84 - 1472.33 :: (Craig) :: is fairly institutional, but um the main thing is, I think
+1473.48 - 1496.66 :: (Craig) :: um our use of this space is more just to report on things as opposed to be creative and constructive and it would probably help to um have l sort of a cumulative effect of we have ideas and we come back and then the ideas are still in discussion, you know, as in other words this this room is sort of a centre point of creativity, whereas in reality as we've gone through this, it's not really the centre point of creativity, it's more just a
+1489.3 - 1489.66 :: (Laura) :: Uh-huh.
+1497.14 - 1502.86 :: (Laura) :: Well d do you feel though that that you were able to have quite a lot of creative input into the thing?
+1497.66 - 1498.48 :: (Craig) :: d debating
+1502.37 - 1513.12 :: (Craig) :: Yeah, yeah but that's just the thing is the quest in terms of the the first point there, the room, it feels as though the creativity goes on when we leave, and then we come here and then we kind of put out our ideas and then, you know.
+1512.88 - 1518.112 :: (Laura) :: But I don't I don't think it means the room as in this room. I think it means like you know
+1515.96 - 1524.01 :: (Craig) :: Oh, oh right right, oh right okay room for creativ Oh right I just looked up and saw okay whiteboard, digital pens, the room. No, of course, yeah.
+1518.13 - 1519.488 :: (Laura) :: Yeah.
+1521.04 - 1521.27 :: (Laura) :: Room.
+1522.42 - 1529.68 :: (Laura) :: Oh yeah. Well I dunno do you th I think it means um I think it means did you feel you were able to give creative input so
+1524.7 - 1525.05 :: (Craig) :: Sorry.
+1525.97 - 1526.13 :: (Craig) :: Huh.
+1527.22 - 1527.62 :: (Craig) :: Yeah.
+1529.11 - 1552.81 :: (Craig) :: Yeah I th okay on th um yeah dif answering the question uh in those terms I'd say that actually there's sort of a tease of creativity because we're asked to work through this, but actually the guidelines are fairly contrived in terms of um okay fashion trends, say fruit and vegetable colour scheme, but then i then we're told okay use the co company company colours.
+1544.91 - 1545.45 :: (Laura) :: Mm-hmm.
+1551.94 - 1552.26 :: (Laura) :: Mm.
+1553.05 - 1569.129 :: (Craig) :: So what do we do. We're told okay um think in terms of style and look and feel and technology, but build something for twelve and a half pounds, so actually the creativity was more more of like a um a f sort of a f formality then an actual
+1560.79 - 1561.21 :: (Laura) :: Okay.
+1568.64 - 1576.25 :: (David) :: You feel like you're caged within whatever y It's like a balloon in a cage, it can only go so big and not hit the side. The constraints do come in very fast.
+1568.68 - 1569.14 :: (Laura) :: Okay.
+1570.54 - 1572.856 :: (Craig) :: Yeah within the constraints the
+1572.91 - 1573.28 :: (Craig) :: Yeah.
+1574.551 - 1576.104 :: (Craig) :: Yeah, yeah. So
+1574.94 - 1583.92 :: (Laura) :: Okay uh do you know what, actually let's take each point and everybody discuss it, I think. Yeah. So still on the topic of room for creativity uh next up is Craig.
+1578.93 - 1579.12 :: (Craig) :: Yeah.
+1584.55 - 1592.87 :: (Andrew) :: Um I agree with his point it's um it is quite a lot of fun t to go and then you have sort of hit the end then go right, gotta cut everything out 'cause we don't have enough money.
+1593.16 - 1593.73 :: (Laura) :: Yeah.
+1593.79 - 1594.01 :: (David) :: Yeah.
+1595.43 - 1595.7 :: (Craig) :: Yep.
+1596.28 - 1615.66 :: (David) :: I think another point is that the meetings um are more brainstorming sessions than meetings, so time is also a very s um strong factor, and structure. Because for a brainstorming meeting you want a structure that allows you to allows ideas to get tossed, um to be evaluated, and to be reviewed, and to get feedback and come back.
+1600.43 - 1600.73 :: (Craig) :: Yeah.
+1605.33 - 1605.68 :: (Laura) :: Yeah.
+1605.67 - 1606.09 :: (Craig) :: Yeah.
+1611.56 - 1612.83 :: (Craig) :: Mm-hmm, mm-hmm.
+1611.8 - 1612.24 :: (Laura) :: Mm.
+1614.621 - 1616.38 :: (Craig) :: Yeah, yeah.
+1615.91 - 1640.59 :: (David) :: And I guess that point about the room not being r very friendly to that, I think that's a very big thing, and I think the fact that we're wearing these things restricts I feel it 'cause I wear m my glasses, right, and that but that irritates me right it it it does actually you know affect how, w whether you feel comfortable to communicate. I feel like I'm hiding behind the equipment, rather than the equipment is helping me, and you know.
+1620.68 - 1620.93 :: (Craig) :: Yeah.
+1624.16 - 1625.34 :: (Craig) :: Yeah, sure.
+1626.17 - 1626.54 :: (Laura) :: Yeah.
+1629.53 - 1629.71 :: (Craig) :: Yeah.
+1632.52 - 1633.22 :: (Craig) :: New creativity.
+1637.32 - 1637.49 :: (Craig) :: Yep.
+1639.75 - 1640.01 :: (Craig) :: Right.
+1640.02 - 1644.18 :: (Laura) :: So you think a more relaxed atmosphere would be more kind of conducive to creative thought or
+1642.63 - 1653.264 :: (David) :: Not not so much an atmosphere, the atmosphere is very relaxed, but the the gear yeah you know that creates boundaries to that um and and the time the time given also restricts
+1644.92 - 1646.44 :: (Laura) :: Yeah, but actual environment?
+1647.53 - 1647.69 :: (Craig) :: Mm.
+1649.59 - 1649.88 :: (Craig) :: Mm-hmm.
+1649.99 - 1650.31 :: (Laura) :: Okay.
+1652.01 - 1652.35 :: (Craig) :: Mm-hmm.
+1652.34 - 1652.83 :: (Laura) :: Okay.
+1654.52 - 1657.55 :: (Laura) :: Very good. Um what about leadership?
+1659.14 - 1663.32 :: (Laura) :: I don't know if that means like, if I did a good job or something. I don't really know.
+1663.03 - 1670.254 :: (Craig) :: Yeah, well well I mean my sense on that is sort of what kind of guidance and direction, encouragement
+1669.6 - 1673.33 :: (Laura) :: From like your personal coach person and stuff like that, do you think maybe?
+1673.08 - 1676.67 :: (Craig) :: Yeah from and you as well I think, just sort of acting as team leader.
+1677.16 - 1677.69 :: (Laura) :: Okay.
+1677.84 - 1691.92 :: (Craig) :: Um yeah I think I think it's I think it's good. I mean my personal views on on leadership is that effective effective leadership sort of um gives people a certain room for freedom and delegation, but then to come back with something that they take great ownership and
+1678.416 - 1680.52 :: (David) :: Excuse me.
+1692.12 - 1692.62 :: (Laura) :: Mm-hmm.
+1692.57 - 1718.259 :: (Craig) :: you know, innovative thought with. In in reality I think here the the different elements of leadership such as the the original b briefing and then the personal coach and the and then you know having having you with your the meeting agenda is actually quite a quite a quite a con confining framework to work within. And so it is leadership almost to the point of sort of disempowering the the the team member, so
+1717.76 - 1719.64 :: (Laura) :: Uh-huh, okay.
+1719.44 - 1731.56 :: (Craig) :: But it's not bad leadership, it's just sort of s fairly strong, you know. It turns it turns the individual into more of like a um sort of a predetermined mechanism, as opposed to a sort of a free
+1730.32 - 1733.36 :: (Laura) :: So you think maybe a little too controlling or
+1733.44 - 1735.48 :: (Craig) :: Yeah, oh yeah, without without a doubt.
+1734.72 - 1763.952 :: (David) :: I think controlling is not the right word, I think the interactions are very structured. I think structure is probably what you're saying that, each individual is structured to one particular task, and one parti rather than controlling. I don't think there's a sense of control 'cause all the decisions have been made in terms of a, like a consensus right, we go around and we think about it, but that you know process actually says you have to do it in a certain way. It doesn't tell you, you know, some ways that you might wanna be a bit more creative in terms of the process you know, not the
+1736.69 - 1738.08 :: (Craig) :: Yeah maybe not co confining.
+1738.72 - 1738.99 :: (Craig) :: Yeah.
+1739.67 - 1740.86 :: (Craig) :: Yeah, yeah.
+1743.38 - 1744.46 :: (Craig) :: Mm-hmm, mm-hmm.
+1744.24 - 1744.83 :: (Laura) :: Okay.
+1746.31 - 1746.68 :: (Craig) :: Mm-hmm.
+1747.42 - 1747.83 :: (Craig) :: Mm-hmm.
+1750.12 - 1751.07 :: (Craig) :: Mm-hmm, mm-hmm.
+1752.43 - 1753.12 :: (Laura) :: Uh-huh.
+1753.78 - 1754.99 :: (Craig) :: Mm-hmm, mm-hmm.
+1757.09 - 1757.47 :: (Craig) :: Mm-hmm.
+1757.33 - 1757.81 :: (Laura) :: Okay.
+1760.55 - 1763.6 :: (Craig) :: Mm. Mm-hmm, mm-hmm. Yeah.
+1764.07 - 1766.98 :: (Laura) :: Okay, uh what about teamwork?
+1769.62 - 1771.94 :: (Craig) :: Um did, you wanna comment Craig?
+1770.93 - 1774.53 :: (Andrew) :: Uh, reckon that was a bit hard because we could only discuss things in the meeting.
+1774.7 - 1774.99 :: (Craig) :: Yeah.
+1774.82 - 1775.64 :: (Laura) :: Yeah.
+1775.97 - 1779.1 :: (Andrew) :: If we could just go up to somebody outside the meeting and have a quick talk with them, that would've been a lot easier.
+1779.33 - 1779.56 :: (Craig) :: Yeah.
+1781.16 - 1781.91 :: (Laura) :: Okay.
+1781.9 - 1782.47 :: (Craig) :: Fully agree.
+1781.91 - 1795.7 :: (David) :: I think you tried to use the common share folder to to to to communicate, but um it just comes back to us so slow in the email um it it doesn't have a, you know, a messenger will go.
+1790.922 - 1791.55 :: (Craig) :: Yeah.
+1791.02 - 1791.76 :: (Laura) :: Mm.
+1796.07 - 1814.58 :: (Laura) :: Did uh did you guys get the email I sent you? Oh that's alright. I was wondering if that got there okay. Okay, um so um to s to to summarize the teamwork issue, saying that if we could communicate outside the meeting, you know just like quick questions, quick thoughts, whatever, it probably would be bit easier.
+1796.1 - 1796.32 :: (Craig) :: Yeah.
+1797.91 - 1798.26 :: (Andrew) :: Not just yet.
+1798.19 - 1798.35 :: (David) :: Yeah.
+1798.53 - 1799.56 :: (Craig) :: Yeah, got the email.
+1799.73 - 1800.08 :: (David) :: Okay.
+1812.34 - 1812.65 :: (Craig) :: Yeah.
+1813.79 - 1814.948 :: (Craig) :: Yeah, in it
+1813.99 - 1825.08 :: (David) :: I think the tools that they were given, the tool set that were given to us are fancy but they don't support collaboration, I think that's the word. They don't support the team working together, you know, they're still very individual tools.
+1819.29 - 1821.61 :: (Craig) :: Mm-hmm, mm-hmm, mm-hmm, exactly.
+1821.15 - 1822.04 :: (Laura) :: Oh right, okay.
+1822.55 - 1823.772 :: (Craig) :: Yeah, I mean if you
+1825.24 - 1849.94 :: (Craig) :: Yeah, I mean sort of taking upon that idea, w the way I see this i is that it's uh the the s the structure in which we've we've approached this whole task is quite contrary to the p principle of teamwork because the the tasks were d d sort of um divided, and then the work went on in isolation I I don't know what you guys did while you were together, maybe that was a bit different,
+1846.67 - 1847.29 :: (Laura) :: Mm.
+1850.45 - 1882.13 :: (Craig) :: but um yeah, but um but actually if you if you imagine not entire the completely same task given to us but us said okay, first thing we have to do is come up with um let's say um a design concept, and we sit here together and do it, well that's what teamwork is. To s to say okay go off and don't talk to each other, it's actually p sort of predisposes you to quite the contrary of teamwork. Um not that we haven't done I think the best we could have done. I'm not dissatisfied with it.
+1850.51 - 1852.26 :: (David) :: We had Play-Doh fun.
+1867.24 - 1867.78 :: (Laura) :: Yeah.
+1871.9 - 1872.41 :: (Laura) :: Yeah.
+1877.46 - 1878.17 :: (Laura) :: Okay.
+1880.46 - 1880.99 :: (Laura) :: Okay.
+1882.74 - 1900.61 :: (Laura) :: Right, uh anything else to say on teamwork at all? Okay, um what about the you know how we used the whiteboard, the digital pens, the projector, stuff like that? Um did anybody think anything was like really useful, anything was pretty un f
+1886.5 - 1887.2 :: (David) :: No, not really.
+1896.57 - 1896.97 :: (Craig) :: Mm-hmm.
+1901.89 - 1902.48 :: (Laura) :: unsupportive?
+1902.41 - 1924.09 :: (Craig) :: I think the whiteboard, for me, is the kind of thing I would use all the time, but it's um not quite as useful as to us as it could have been, maybe just in the way that we we use it, in the sense that once we have an idea out there or while work was going on in between meetings, that could have been up on a board uh you know as opposed to in like in text.
+1920.91 - 1921.58 :: (Laura) :: Mm.
+1924.59 - 1949.11 :: (Craig) :: Um, and then we could then keep our ideas sort of building on that. I know that people who design cars and you know in aviation they quite often just have a simple like fibreglass prototype and it's completely you know um abs abstract from the final product, but they use it as a kind of a context to sort of walk around and puzzle and and point and discuss and and and in a way everybody's as we discuss things in the in theoretically and out of our notebooks,
+1938.55 - 1938.9 :: (Laura) :: Mm-hmm.
+1941.11 - 1941.55 :: (Laura) :: Yeah.
+1942.63 - 1944.26 :: (Laura) :: And point at? Yeah.
+1949.46 - 1961.73 :: (Craig) :: we're just we're actually just each of us discussing something that's in each of our own minds. It wasn't until we had this here, you know, like at one point I peeked across and looked at Craig's paper and I'm like, now I know what he's thinking 'cause I saw his book.
+1955.02 - 1955.45 :: (Laura) :: Yeah.
+1960.7 - 1961.83 :: (Laura) :: Ah.
+1962.23 - 1966.576 :: (Craig) :: But the b the b whiteboard could've actually been this kind of continuing um
+1966.71 - 1970.59 :: (Laura) :: So do you think producing a prototype earlier in the process woulda been a good idea?
+1971.22 - 1971.94 :: (Craig) :: Think could be, yeah.
+1972.11 - 1992.539 :: (David) :: I think um the the focus of it a lot was the PowerPoint as opposed to the to the whiteboard, and I think that m um is also does you know hinder us and things I think. It will be cooler to have the whiteboard rather than the the PowerPoint, or maybe the whiteboard and the PowerPoint in the same place, you know in the centre of the
+1975.81 - 1976.27 :: (Laura) :: Yeah.
+1976.65 - 1977.67 :: (Craig) :: Yeah, yeah.
+1978.74 - 1979.07 :: (Craig) :: Yeah.
+1980.46 - 1981.27 :: (Craig) :: Yeah, yeah.
+1982.74 - 1983.13 :: (Craig) :: Mm-hmm.
+1985.11 - 1985.48 :: (Craig) :: Mm-hmm.
+1987.94 - 1988.33 :: (Craig) :: Yeah.
+1990.1 - 1991.1 :: (Craig) :: Yeah, yeah.
+1990.73 - 1991.13 :: (Laura) :: Okay.
+1992.07 - 2009.6 :: (Craig) :: Yeah, because the PowerPoint was provided to us while we had time to prepare, whereas I can imagine if I'd been encouraged to use Paintbrush, for example, or whatever, I would've actually used it, um 'ca you know, just 'cause that's sorta how we what we were set up to to use while we had our time.
+2001.24 - 2001.5 :: (Laura) :: Alright.
+2009.75 - 2012.302 :: (Laura) :: Okay uh
+2011.38 - 2028.19 :: (David) :: I think that there were too many PowerPoints in the meetings. 'Cause the plug-in and the plugging spent we spent a lot of time doing that. And a lot of the information on the PowerPoints, I don't think, you know, we needed to actually it could have, we could have gone through it verbally, especially my slides, I felt that they just you know as opposed to having to present them.
+2014.1 - 2014.42 :: (Craig) :: Mm-hmm.
+2014.11 - 2014.46 :: (Andrew) :: Yeah.
+2014.59 - 2015.17 :: (Laura) :: Yeah.
+2016.05 - 2016.49 :: (Craig) :: Yeah.
+2017.15 - 2017.62 :: (Laura) :: Yeah.
+2021.66 - 2022.89 :: (Craig) :: No, not quite.
+2024.05 - 2024.3 :: (Craig) :: Yeah.
+2025.29 - 2025.48 :: (Craig) :: Yeah.
+2025.83 - 2026.27 :: (Laura) :: Okay.
+2027.33 - 2027.62 :: (Craig) :: Yeah.
+2028.23 - 2031.96 :: (Laura) :: What about the digital pens, did you find them easy enough to use?
+2032.592 - 2039.328 :: (David) :: Yep clunky. Agreed.
+2032.613 - 2033.9 :: (Craig) :: Sure, yeah.
+2032.68 - 2033.63 :: (Andrew) :: Oh they're a bit clunky.
+2037.65 - 2037.8 :: (Laura) :: Yeah.
+2037.93 - 2038.569 :: (Craig) :: Yeah.
+2039.35 - 2039.62 :: (Craig) :: Yep.
+2039.88 - 2043.952 :: (Laura) :: Clunky, okay. Um
+2041.21 - 2041.47 :: (Craig) :: Mm.
+2043.48 - 2049.62 :: (David) :: Having to tick it before you go off was a bit hindering as well, 'cause you're half way through a thought, and then you run out of paper and then you have to jump.
+2046.45 - 2046.89 :: (Craig) :: Mm.
+2046.8 - 2047.3 :: (Laura) :: Yeah.
+2049.73 - 2067.29 :: (Laura) :: I know, I think at the very start of today I like wrote a whole load of stuff, didn't click note on one, then went back and wrote one tiny wee thing on the another page, but then did click note, and so I'm quite worried that I've just written over the top of it or something, but they'll have my paper anyway um and haven't done that since.
+2049.74 - 2050.41 :: (Craig) :: Yeah.
+2060.69 - 2060.87 :: (Craig) :: Hmm.
+2062.9 - 2063.09 :: (Craig) :: Hmm.
+2063.27 - 2066.77 :: (Craig) :: Mm-hmm, mm-hmm. Hmm.
+2066.76 - 2075.206 :: (David) :: But I think the pen is v is very intuitive, everybody knows how to use it, we don't have to worry. So I think the pen's good. It's about the best thing.
+2069.94 - 2072.88 :: (Craig) :: Mm-hmm, mm-hmm, mm-hmm.
+2070.26 - 2071.53 :: (Laura) :: Yeah, yeah.
+2074.39 - 2081.55 :: (Craig) :: And o on the topic of the technology, it just occurred to me that we actually didn't need to move our computers because each computer has all of the files.
+2082.21 - 2082.76 :: (Laura) :: Yeah.
+2082.45 - 2083.962 :: (Craig) :: It just occurred to me that they all
+2083.51 - 2085.52 :: (David) :: Yeah we only needed one computer and
+2084.9 - 2086.29 :: (Craig) :: We only actually needed one computer.
+2086.16 - 2088.23 :: (Laura) :: Yeah, that's true.
+2087.27 - 2090.3 :: (Craig) :: If there had been a fifth, that coulda just been sitting there ready to go the whole time.
+2088.37 - 2088.75 :: (Andrew) :: Good point.
+2090.04 - 2101.536 :: (David) :: And the computer may not um be conducive to a meeting because um you tend to look at your computer and wanna have the urge to check something, you know, it's useful but
+2093.33 - 2093.55 :: (Craig) :: Yeah.
+2096.84 - 2097.15 :: (Craig) :: Yeah.
+2099.38 - 2099.71 :: (Craig) :: Yeah.
+2099.97 - 2100.41 :: (Laura) :: Yeah.
+2101.88 - 2104.5 :: (Laura) :: Do you think the computers just provide distraction in a meeting?
+2104.52 - 2108.224 :: (David) :: I think too many computers are just distracting. Um
+2106.32 - 2106.66 :: (Andrew) :: Yeah.
+2107.28 - 2107.85 :: (Laura) :: Okay.
+2109.88 - 2123.02 :: (Laura) :: I know I I like to have things written down in front of me actually, like a lot of the stuff that was emailed to me I ended up you know like writing down there or something so I could look at it really quickly and not have the distraction of all of that, um I don't know about anybody else.
+2112.53 - 2114.53 :: (Craig) :: Mm-hmm. Yep.
+2116.09 - 2116.46 :: (Craig) :: Mm-hmm.
+2116.8 - 2117.15 :: (David) :: Yep.
+2118.16 - 2118.75 :: (Craig) :: Mm-hmm.
+2122.39 - 2122.76 :: (Craig) :: Mm-hmm.
+2123.57 - 2140.36 :: (Laura) :: Um what else uh any wh I do I'm not really sure what they're looking for when they say new ideas found. Um I don't know is could you think of like anything else that would have been helpful today at all?
+2134.92 - 2136.687 :: (Andrew) :: Is this for the project or
+2143.98 - 2149.07 :: (Craig) :: Well, the w main one for me is that uh the process
+2150.13 - 2159.9 :: (Craig) :: na in a natural f context would not have been interrupted by this necessity to discommunicate ourselves from each other.
+2158.99 - 2161.637 :: (Laura) :: Mm. Yeah if we just had uh
+2160.57 - 2175.15 :: (Craig) :: So, that's kind of a new idea for me is like just sort of that idea, well you know it's kind of s hard to keep f working forward on a team a team based project when when you're told you must now work away from your team.
+2170.22 - 2171.11 :: (Laura) :: Mm-hmm.
+2174.861 - 2197.36 :: (Laura) :: Yeah I I dunno I think it was quite good that we had time limits on the meetings because they really could have run on and like my experience with meetings is that they really do, and you can spend a lot of time talking about The only thing is though like when we had our meeting about the conceptual design, I thought there maybe another fifteen minutes would have been useful there but um yeah.
+2182.23 - 2182.65 :: (Craig) :: Oh yeah.
+2184.04 - 2185.26 :: (Craig) :: Yeah, yeah.
+2192.69 - 2195.37 :: (Craig) :: Mm-hmm, mm-hmm, mm-hmm.
+2197.64 - 2216.96 :: (Laura) :: I really thi i I think maybe if we'd like all been working in the one room, and they just said you know like every hour or something everybody make sure yo you know just have a have a short meeting and then just c just to have like something written down, just like you know a a milestone if you like um rather than having meetings, but
+2206.21 - 2206.56 :: (Craig) :: Mm-hmm.
+2208.69 - 2209.1 :: (Craig) :: Mm-hmm.
+2211.36 - 2211.82 :: (Craig) :: Mm-hmm.
+2218.41 - 2234.28 :: (Laura) :: There you go. Um so in closing, I haven't got my five minutes to go. Thin Oh there it i Five minutes to go. Wonderful. Okay um are the costs within the budget, yes they are. And is the project evaluated, yes it is. So now celebrate.
+2218.78 - 2219.07 :: (Craig) :: Hmm.
+2234.59 - 2236.127 :: (Craig) :: Great. So it
+2235.62 - 2236.81 :: (David) :: And we have Ninja Homer.
+2237.21 - 2237.97 :: (Craig) :: So now we
+2237.59 - 2237.95 :: (Andrew) :: Oh yeah.
+2238.85 - 2241.73 :: (Laura) :: Well apparently now I write the final report. What are you guys doing now?
+2240.59 - 2241.45 :: (Andrew) :: Do we know what the other ones are?
+2242.0 - 2242.88 :: (Craig) :: I I don't know.
+2243.01 - 2243.56 :: (Laura) :: You dunno?
+2243.24 - 2245.6 :: (Andrew) :: Oh wow.
+2244.67 - 2244.84 :: (Craig) :: Hmm.
+2245.72 - 2247.872 :: (Laura) :: That is lovely.
+2247.22 - 2250.832 :: (Andrew) :: Hey yeah, I said Ninja Homer.
+2249.94 - 2250.62 :: (Craig) :: What did you call it?
+2251.02 - 2253.9 :: (David) :: Ninja Homer. See it looks like Homer Simpson
+2254.26 - 2256.87 :: (Craig) :: Huh, huh. Logo.
+2255.03 - 2259.89 :: (David) :: but it's electronic so it's made in Japan. Yeah it's just a logo.
+2255.13 - 2265.488 :: (Laura) :: So is that j is that just is that just a logo or does it do anything? Just a logo and then like Ninja Homer, right okay.
+2260.67 - 2260.9 :: (Craig) :: Huh.
+2261.58 - 2263.873 :: (David) :: Ninja Homer.
+2264.16 - 2264.32 :: (Craig) :: Mm.
+2265.6 - 2269.68 :: (David) :: The the red is supposed to represent the whatever else you wanna print on the side of it.
+2270.09 - 2270.45 :: (Craig) :: Mm-hmm.
+2271.19 - 2272.22 :: (Laura) :: I think it's quite nice.
+2271.4 - 2273.23 :: (Craig) :: Fashion technology or something.
+2274.04 - 2279.083 :: (David) :: You can wear Homer, you can throw Homer when you're frustrated, doh.
+2276.86 - 2278.65 :: (Craig) :: Hmm, hmm, hmm.
+2279.57 - 2285.19 :: (Laura) :: Oh no, that's cool, it's got I'm kind of I'm slightly gutted that we couldn't get plastic and rubber, I think that would have been nice.
+2280.87 - 2281.35 :: (Craig) :: Hmm.
+2281.32 - 2282.05 :: (David) :: It's clunky.
+2284.92 - 2285.74 :: (Craig) :: Yeah, yeah.
+2286.35 - 2290.24 :: (Laura) :: Ah well, maybe from now on real reaction should give us more money.
+2289.04 - 2289.45 :: (Craig) :: Mm-hmm.
+2290.32 - 2313.37 :: (David) :: Oh, I did learn something new, Play-Doh is useful. No it is it is. It is useful and in in in in in in in um conceptualizing, in being creative. 'Cause like you say, it's something you can put your hands on and feel and touch and get a sense for. Like we were playing with the Play-Doh and the ideas came with the Play-Doh rather than with everything else. You might wanna write that down. It's just, I'm just fiddling with the Play-Doh, and I'm going yeah yeah it's kinda cool.
+2290.55 - 2290.66 :: (Craig) :: Hmm.
+2293.64 - 2294.15 :: (Laura) :: Play-Doh s
+2295.48 - 2295.86 :: (Craig) :: Huh.
+2298.07 - 2298.37 :: (Craig) :: Huh.
+2300.1 - 2300.7 :: (Laura) :: Really?
+2302.458 - 2303.49 :: (Craig) :: Yeah.
+2303.46 - 2303.89 :: (Laura) :: Yeah.
+2307.59 - 2308.07 :: (Laura) :: Did they?
+2309.96 - 2310.38 :: (Craig) :: Yeah.
+2310.69 - 2311.1 :: (Laura) :: Okay.
+2312.58 - 2314.43 :: (Laura) :: Play-Doh.
+2313.08 - 2314.03 :: (Craig) :: No, it's true, yeah.
+2314.66 - 2316.24 :: (Andrew) :: Guess I'd forgot how good s Play-Doh smells.
+2316.82 - 2316.96 :: (Craig) :: Hmm.
+2316.91 - 2319.824 :: (Laura) :: Yeah, it smells funny doesn't it. Um
+2318.56 - 2320.5 :: (Craig) :: And some Play-Dohs are actually I think edible aren't they?
+2320.96 - 2321.99 :: (David) :: No, all Play-Doh is edible.
+2320.97 - 2323.68 :: (Laura) :: Yeah like the stuff for I think it has to be, yeah.
+2321.71 - 2323.83 :: (Andrew) :: I think they're all non-toxic 'cause it's aimed for like two-year-olds.
+2323.34 - 2326.448 :: (David) :: It's just wheat, it's the stuff that your mom could make with preservatives and uh
+2326.47 - 2327.1 :: (Craig) :: Wow, hmm.
+2326.58 - 2330.07 :: (Laura) :: Yeah um so to wha what are your summarising words about Play-Doh?
+2331.35 - 2340.69 :: (David) :: It's helpful to the creative process. Um it engages all your senses not just your sight, but your sense of feel your sense of touch. And it helps you to understand
+2332.17 - 2332.29 :: (Craig) :: Huh.
+2333.49 - 2334.11 :: (Laura) :: Okay.
+2337.32 - 2337.5 :: (Craig) :: Yep.
+2338.85 - 2342.016 :: (Craig) :: Taste.
+2342.02 - 2357.15 :: (David) :: dimension as well. I think that that's very helpful because it it starts to pop up, whereas on a piece of paper, on a computer, on a board, um even with a three D_ graphic thing it still, it requires a lot of yeah tangible, that's a nice word. It becomes tangible.
+2342.944 - 2344.37 :: (Craig) :: Yeah.
+2343.25 - 2343.66 :: (Laura) :: Yeah.
+2347.76 - 2348.3 :: (Laura) :: Yeah.
+2347.77 - 2349.74 :: (Craig) :: Mm-hmm, yep. Yeah.
+2352.26 - 2353.26 :: (Andrew) :: Yeah it's not very tangible.
+2352.76 - 2353.15 :: (Craig) :: Yeah.
+2354.05 - 2354.8 :: (Laura) :: Mm-hmm.
+2354.49 - 2355.95 :: (Craig) :: Mm-hmm, mm-hmm, mm-hmm.
+2357.61 - 2357.94 :: (Craig) :: Mm-hmm.
+2358.76 - 2360.01 :: (Laura) :: Tangible.
+2362.67 - 2365.12 :: (Laura) :: Okay uh
+2370.26 - 2375.7 :: (Laura) :: Mm. I don't know if there's anything else we needed to discuss.
+2373.56 - 2373.71 :: (David) :: Nope.
+2377.06 - 2378.41 :: (Laura) :: That that's about it really.
+2381.59 - 2383.44 :: (Laura) :: Just sit still I guess for a little while.
+2383.59 - 2386.67 :: (Craig) :: Do we retreat to our, to continue our
+2387.12 - 2390.64 :: (David) :: I think we could probably do it here as long as we don't collaborate.
+2387.52 - 2387.84 :: (Laura) :: Um
+2388.37 - 2389.7 :: (Craig) :: r reporting or what i
+2389.81 - 2395.28 :: (Laura) :: Well I dunno. Um I'm sure the little uh the little thing'll pop up any minute now.
+2395.86 - 2397.04 :: (David) :: Can we turn off the microphones?
+2398.3 - 2400.86 :: (Laura) :: Yeah, yeah if the meeting's over then yeah I guess so.

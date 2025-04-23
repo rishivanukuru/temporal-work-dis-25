@@ -1,0 +1,161 @@
+<!DOCTYPE html>
+<html>
+
+<head>
+    <title>Temporal Work Visualization - chi25b-sub1590</title>
+
+    <script src="https://d3js.org/d3.v7.min.js"></script>
+
+    <style>
+        body {
+            font-family: Verdana, sans-serif;
+        }
+
+        .timeline-container {
+            margin-bottom: 50px;
+            position: relative;
+        }
+
+        .timeline {
+            border-top: 2px solid #333;
+            position: relative;
+        }
+
+        .event {
+            position: absolute;
+            cursor: pointer;
+        }
+
+        .line {
+            stroke-width: 2px;
+        }
+
+        .tooltip {
+            position: absolute;
+            padding: 8px;
+            border-radius: 4px;
+            pointer-events: none;
+            font-size: 12px;
+            background: rgba(0, 0, 0, 0.7);
+            color: #fff;
+            display: none;
+            z-index: 10;
+        }
+    </style>
+</head>
+
+<body>
+
+    <h1>Temporal Work Visualizations</h1>
+
+    <p>This webpage is meant to accompany <b>Figure 2 of submission 1590 to CHI 2025.</b></p>
+    <p>The temporal work taking place in each of the 8 meetings is visualized via interactive timelines below.</p>
+    <p><i>Note: You will need to launch a local server to allow this webpage to access the CSV files. <br> The easiest way to achieve this is via VS Code and the <a href = "https://marketplace.visualstudio.com/items?itemName=ritwickdey.LiveServer"> Live Server extension</a>. <br> The provided CSV files should be in the "data" folder. The "data" folder and this HTML file should be in the same folder. </i></p>
+    <p><b>Hover over each point to view more details.</b></p>
+
+    <div id="main-container">
+
+    </div>
+
+    <script>
+
+        const csvFiles = ["data/A1.csv", "data/A2.csv", "data/A3.csv", "data/A4.csv", "data/B1.csv", "data/B2.csv", "data/B3.csv", "data/B4.csv"];
+
+        const width = 1200;
+        const height = 200;
+
+        const mainContainer = d3.select("#main-container");
+
+        const loadCSV = (file) => {
+            return d3.csv(file).then(data => ({ file, data }));
+        };
+
+        Promise.all(csvFiles.map(loadCSV)).then(results => {
+            results.forEach(({ file, data }) => {
+                const container = mainContainer.append("div")
+                    .attr("class", "timeline-container")
+                    .style("position", "relative");
+
+                container.append("h3").text(`Meeting ${file}`);
+
+                const svg = container.append("svg")
+                    .attr("width", width)
+                    .attr("height", height);
+
+                const g = svg.append("g");
+
+                const tooltip = container.append("div")
+                    .attr("class", "tooltip")
+                    .style("position", "absolute")
+                    .style("display", "none");
+
+                g.append("line")
+                    .attr("class", "timeline")
+                    .attr("x1", 0)
+                    .attr("x2", width)
+                    .attr("y1", height / 2)
+                    .attr("y2", height / 2)
+                    .attr("stroke", "#aaa")
+                    .attr("stroke-width", 3);
+
+                const timeScale = d3.scaleLinear()
+                    .domain([0, d3.max(data, d => +d.Time)])
+                    .range([50, width - 50]);
+
+                data.forEach(d => {
+                    const lineLength = 10 * parseInt(d.Timescale - 1);
+
+                    const actionMap = {
+                        "Planning": { yDirection: -1, actionColor: "#D55E00" },
+                        "Intention": { yDirection: -1, actionColor: "#E69F00" },
+                        "Simulation": { yDirection: -1, actionColor: "#CC79A7" },
+                        "Prediction": { yDirection: -1, actionColor: "#009E73" },
+                        "Recollecting": { yDirection: 1, actionColor: "#56B4E9" },
+                        "Reflecting": { yDirection: 1, actionColor: "#0072B2" },
+                    };
+
+                    const { yDirection, actionColor } = actionMap[d.Action] || { yDirection: 1, actionColor: "#000000" };
+
+                    const yEnd = height / 2 + yDirection * lineLength;
+
+                    const x = timeScale(d.Time);
+
+                    g.append("line")
+                        .attr("class", "line")
+                        .attr("x1", x)
+                        .attr("x2", x)
+                        .attr("y1", height / 2)
+                        .attr("y2", yEnd)
+                        .attr("stroke", actionColor)
+                        .attr("class", "future");
+
+                    const event = g.append("circle")
+                        .attr("class", "event")
+                        .attr("cx", x)
+                        .attr("cy", height / 2)
+                        .attr("r", 5)
+                        .attr("fill", actionColor);
+
+                    event.on("mouseover", function (e) {
+                        const transform = d3.zoomTransform(g.node());
+                        const adjustedX = transform.applyX(x);
+                        const adjustedY = transform.applyY(yEnd);
+
+                        d3.select(this).attr("r", 8);
+                        tooltip.style("display", "block")
+                            .style("left", `${adjustedX}px`)
+                            .style("top", `${height / 2 - 40}px`)
+                            .html(`<strong>Action:</strong> ${d.Action}<br><strong>Details:</strong> ${d.Detail}<br><strong>Horizon:</strong> ${d.Horizon}`);
+                    }).on("mouseout", function () {
+                        d3.select(this).attr("r", 5);
+                        tooltip.style("display", "none");
+                    });
+                });
+            });
+        }).catch(error => {
+            console.error('Error loading CSV:', error);
+        });
+    </script>
+</body>
+
+</html>

@@ -1,0 +1,97 @@
+Time,Action,Detail,Horizon,Timescale
+284,Planning,Upcoming meeting,Tomorrow,2
+293,Planning,Upcoming meeting,Tomorrow,2
+305,Planning,Other possible meetings,Near future,4
+321,Recollecting,Share information about visitors,Recent past,4
+346,Recollecting,Previous conversation,Recent past,4
+363,Recollecting,Previous conversation,Recent past,4
+378,Recollecting,Previous conversation,Recent past,4
+393,Recollecting,Other conversation,Recent past,4
+498,Recollecting,Chat about interns,Last week,2
+509,Recollecting,A question asked in the previous meeting + follow up,Last week,2
+527,Recollecting,Talking with Mark,Recent past,4
+543,Intention,Find alignment,Near future,4
+548,Intention,Work together,Near future,4
+560,Planning,Work together,Near future,4
+586,Planning,Meeting with people,In a few days,2
+603,Recollecting,Prior collaborations,Recent and distant past,5
+610,Planning,Added people to thread,In a few days,2
+622,Recollecting,Work done by other people,Distant past,5
+636,Recollecting,Recent changes,Recent past,4
+655,Recollecting,Recent changes,Recent past,4
+668,Recollecting,Recent changes,Recent past,4
+684,Recollecting,Other tasks done by those people,Distant past,5
+694,Recollecting,Organizational structure,Distant past,5
+699,Recollecting,Org structure,Recent past,4
+710,Planning,Sending team member to conference,Near future,4
+741,Recollecting,Restating an intention,Last few months,4
+749,Recollecting,Related tasks,Last few months,4
+774,Planning,Extended an offer,Next few days/weeks,2
+820,Planning,Other teams joining discussions,Near future,4
+835,Planning,Other teams joining discussions,Near future,4
+855,Recollecting,"Conversation from previous meeting, follow-up action in other meeting","Recent past, Last week",2
+875,Planning,"Exploring other pathways, follow-up meeting",Near future,4
+897,Recollecting,Remembering intention,Distant past,5
+900,Intention,Collaboration with Dublin team,Near future,4
+911,Recollecting,Conversations with others to confirm,Recent past,4
+925,Recollecting,Conversation with Ocan,Distant past,5
+952,Recollecting,Conversation with Ocan,Distant past,5
+961,Reflecting,Understanding from a chat,Distant past,5
+971,Recollecting,Fact about person from conversation,Distant past,5
+1010,Recollecting,Asking for an update from last meeting,Last week,2
+1029,Recollecting,Whether this was covered in a previous meeting this week,This week,2
+1037,Recollecting,Details since last meeting,Last week,2
+1040,Recollecting,Details since last meeting,Last week,2
+1042,Recollecting,Details since last meeting,Last week,2
+1048,Planning,For a private preview release,This week,2
+1060,Planning,for the release,This week,2
+1065,Planning,Next release,Two weeks from now,3
+1093,Recollecting,Work done by the team,Recent past,4
+1101,Intention,Focus on a specific task,Near future,4
+1137,Intention,Understanding what to do next,Near future,4
+1192,Reflecting,Looking at the other tasks a team has to do,This month,4
+1202,Planning,Priority to get something fixed,Next month,4
+1210,Planning,ETA For a fix,Near future,4
+1260,Intention,Stating that it isn't the team's responsibility to investigate X,Near future,4
+1283,Recollecting,Previous conversation,Recent past,4
+1303,Recollecting,Previous conversation,Recent past,4
+1392,Planning,Looking ahead at meetings,Near future,4
+1398,Planning,Looking ahead at meetings,Near future,4
+1409,Intention,From other teams,Near future,4
+1432,Simulation,Other possibilities,Near future,4
+1456,Simulation,Other possibilities,Near future,4
+1461,Intention,Time to brainstorm,Near future,4
+1502,Planning,Brainstorm,Near future,4
+1515,Planning,Brainstorm,Near future,4
+1534,Simulation,Other applications,Near future,4
+1546,Recollecting,Using a whiteboard in a previous meeting,Last year,5
+1559,Recollecting,Same occurence,Recent past,4
+1617,Reflecting,Ability to work with teams,Recent past,4
+1645,Recollecting,Conversation with Irene,Last few weeks,3
+1650,Planning,Engaging in more conversations,Near future,4
+1656,Recollecting,Conversation with Irene,Last few weeks,3
+1753,Intention,Successful ideas to go through,Near future,4
+1771,Reflecting,Looking back at ongoing work,Recent past,4
+1788,Planning,"For resourcing, reflecting on current status",Near future,4
+1817,Reflecting,Tying back to a phase last October,Last year,5
+1826,Reflecting,Tying back to a phase last October,Last year,5
+1832,Intention,Honor commitments,Near and distant future,5
+1854,Planning,Concrete phasing up and down of projects,Near future,4
+1900,Intention,Defining what to ramp up on,Near future,4
+1909,Simulation,To reinforce a non pathway,Near future,4
+1935,Recollecting,Post in chat channel,Last week,2
+1981,Recollecting,Today's meeting,Earlier now,1
+2014,Planning,Think and act on changes,Next few months,4
+2025,Planning,Think and act on changes,Next few months,4
+2034,Planning,Think and act on changes,Next few months,4
+2042,Planning,Think and act on changes,Next few months,4
+2049,Recollecting,Changes to all team systems,Last week,2
+2070,Planning,Concrete task,Next few days,2
+2071,Planning,Contact people,Next few days,2
+2086,Planning,To fix issues,Near future,4
+2127,Planning,Task to create documentation,Next few weeks,3
+2186,Reflecting,To see if the current structure is working,Last few weeks,3
+2207,Planning,Weekly tech talk meetings,For the next year,5
+2233,Planning,Specific deadline,Next month,4
+2283,Planning,Discussion with a specific person, Next week,2
+2283,Planning,Discussion with a specific person, Next week,2

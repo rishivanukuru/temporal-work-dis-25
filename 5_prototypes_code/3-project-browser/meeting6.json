@@ -1,0 +1,22 @@
+{
+    "title": "Remote Design Meeting",
+    "attendees": "Laura, Andrew, Craig, David",
+    "goals": [
+        "Review and finalize target market.",
+        "Discuss design concepts for remote control."
+    ],
+    "progress": [
+        "Target group set as ages fifteen to thirty five. [Laura]",
+        "Decided to focus on non-rechargeable battery power. [Laura]"
+    ],
+    "plans": [
+        "Develop component concepts and user interface. [Industrial Designer]",
+        "Conduct trend watching. [Marketing]"
+    ],
+    "highlights": [
+        {"title": "Technical Functions Design slide", "src": "0"},
+        {"title": "User Interface options", "src": "16"},
+        {"title": "Trend Watching introduction", "src": "6"},
+        {"title": "Market Research Findings", "src": "9"}
+    ]
+}

@@ -1,0 +1,13 @@
+{
+    "title": "Final Design Meeting",
+    "attendees": "Laura, David, Andrew, Craig",
+    "goals": ["Finalize design details for remote control", "Evaluate product and design aspects"],
+    "progress": ["Discussion of LCD screen replacement with basic version [Andrew]", "Cost-saving measures by changing design elements [David]"],
+    "plans": ["Finalize and specify design in report [Laura]", "Redesign without LCD for cost efficiency [Team]"],
+    "highlights": [
+        {"title": "Evaluation criteria slide", "src": "0"},
+        {"title": "Method of evaluation slide", "src": "1"},
+        {"title": "Cost calculation Excel sheet", "src": "4"},
+        {"title": "Refining design slide", "src": "3"}
+    ]
+}
